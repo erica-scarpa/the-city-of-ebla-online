@@ -1,1 +1,7 @@
 # the-city-of-ebla-online
+
+This webpage is the continuation of the reference list published as: Scarpa, E. (2017). *The City of Ebla. A Complete Bibliography of Its Archaeological and Textual Remains*. Venezia: Edizioni Ca' Foscari. Antichistica 11. Studi Orientali 5. [[Download](http://edizionicafoscari.unive.it/it/edizioni/libri/978-88-7543-436-6/)]
+
+All the references published in the book have been included in this webpage: new references will be added as soon as they become available, along with references omitted in the book.Please note that references from #0001 to #2668 have already been published in the book: new additions will be numbered starting from #2669. To check for updates please verify also the list of additions at the following [link](https://github.com/erica-scarpa/the-city-of-ebla-online/commits/master/biblio-minified.json).
+Differences between online version and publication:
+* the online version adopts the same bibliographical conventions used in the book;* indexing principles (see paragraph 2.2, [p. 13](http://edizionicafoscari.unive.it/it/edizioni/libri/978-88-7543-436-6/introduction/)) will no longer be maintained;* cross-references to reviews, translations, reprints, and co-authorships will no longer be maintained, and are available only in the book;* the subject index (see paragraph 4.2, [pp. 23-25](http://edizionicafoscari.unive.it/it/edizioni/libri/978-88-7543-436-6/introduction/)) will be maintained only as a network graph. The graph is available [here](https://github.com/erica-scarpa/the-city-of-ebla).
