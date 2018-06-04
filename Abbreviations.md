@@ -1,6 +1,6 @@
-| Abbreviation                                                          |              |
-| -------------                                                         |:-------------| 
-| **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
+| Abbreviations                                                         |              |
+| ---------------------------                                           |:-------------| 
+| **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
 | **AfO**                                                               | *Archiv für Orientforschung*. Wien. |                                        
 | **AION**                                                              | *Annali dell’Istituto Orientale di Napoli*. Roma; Napoli. |
 | **AJA**                                                               | *American Journal of Archaeology*. Boston; Concord; Princeton. |
@@ -112,5 +112,5 @@
 | **WO**                                                                | *Die Welt des Oriens*. Göttingen; Tübingen. |
 | **ZA**                                                                | *Zeitschrift für Assyriologie*. Berlin; München. |
 | **ZDMG**                                                              | *Zeitschrift der Deutschen Morgenländischen Gesellschaft*. Wiesbaden. |
-| **ZOrA**                                                              | *Zeitschrift für Orient-Archäologie*. Berlin; Boston. |
+| **ZOrA**                                                              | *Zeitschrift für Orient-Archäologie*. Berlin; Boston. |
 | **Древняя Эбла**                                                      | Diakonoff, I. M.; Matthiae, P.(eds.) (1985). *Древняя Эбла. Раскопки в Сирии*. Moskva. |
