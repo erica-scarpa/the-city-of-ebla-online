@@ -57,7 +57,7 @@
 | **ICAANE 6/1**                                                        | Matthiae, P.; Pinnock, F.; Nigro, L.; Marchetti, N. (eds.) (2010). *Proceedings of the 6th International Congress of the Archaeology of the Ancient Near East. Volume 1. Near Eastern Archaeology in the Past, Present and Future. Heritage and Identity. Ethnoarchaeological and Iterdisciplinary Approach, Results, and Perspectives. Visual Expression and Craft Production in the Definition of Social Relations and Status.* Wiesbaden. |
 | **ICAANE 7/1**                                                        | Matthews, R.; Curtis, J. (eds.) (2012). *Proceedings of the 7th International Congress of the Archaeology of the Ancient Near East, 12 April – 16 April 2010, the British Museum and UCL, London. Volume 1. Mega-cities & Mega-sites. The Archaeology of Consumption & Disposal. Landscape, Transport & Communication*. Wiesbaden. |
 | **JAOS**                                                              | *Journal of the America Oriental Society*. New Haven. |
-| **JCS**                                                               | *Journal of Cuneiform Studies. Cambridge*. |
+| **JCS**                                                               | *Journal of Cuneiform Studies*. Cambridge. |
 | **JEOL**                                                              | *Jaarbericht van het Vooraziatisch-Egyptisch Gezelschap ‘Ex Oriente Lux’*. Leiden. |
 | **JNES**                                                              | *Journal of Near Eastern Studies*. Chicago. |
 | **JSS**                                                               | *Journal of Semitic Studies*. Manchester. |
@@ -88,7 +88,7 @@
 | **QdL**                                                               | *Quaderni del Dipartimento di Linguistica*. Firenze. |
 | **QdS**                                                               | *Quaderni di Semitistica*. Firenze. |
 | **QdS 25**                                                            | Fronzaroli, P.; Marrassini, P. (eds.) (2005). *Proceedings of the 10th Meeting of Hamito-Semitic (Afroasiatic) Linguistics (Florence, 18–20 April 2001)*. Firenze. Quaderni di Semitistica 25. |
-| **RA**                                                                | R*evue d’assyriologie et d’archéologie orientale*. Paris. |
+| **RA**                                                                | *Revue d’assyriologie et d’archéologie orientale*. Paris. |
 | **RA 106**                                                            | Biga, M.G.; Charpin, D.; Durand, J.-M. (éds.) (2012). *Recueil d’études historiques, philologiques et épigraphiques en l’honneur de Paolo Matthiae. Première Partie*. Paris. Revue d’assyriologie et d’archéologie orientale 106. |
 | **RA 107**                                                            | Biga, M.G.; Charpin, D.; Durand, J.-M. (éds.) (2013). *Recueil d’études historiques, philologiques et épigraphiques en l’honneur de Paolo Matthiae. Seconde Partie*. Paris. Revue d’assyriologie et d’archéologie orientale 107. |
 | **RAI 57**                                                            | Archi, A. (ed.) (2015). *Tradition and Innovation in the Ancient Near East. Proceedings of the 57th Rencontre Assyriologique Internationale at Rome, 4-8 July 2011*. Winona Lake. |
