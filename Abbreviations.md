@@ -1,6 +1,7 @@
 | Abbreviation                                                          |              |
 | -------------                                                         |:-------------| 
 | **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
+| **AAAS 57-58**                                                        | Matthiae, P.; Abdulkarim, M.; Pinnock, F.; Alkhalid, M. (eds.) (2014-2015), *Studies on the Archaeology of Ebla After 50 Years of Discoveries*. Damas. |
 | **AfO**                                                               | *Archiv für Orientforschung*. Wien. |                                        
 | **AION**                                                              | *Annali dell’Istituto Orientale di Napoli*. Roma; Napoli. |
 | **AJA**                                                               | *American Journal of Archaeology*. Boston; Concord; Princeton. |
