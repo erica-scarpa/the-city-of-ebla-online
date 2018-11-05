@@ -28,6 +28,7 @@
 | **BiOr**                                                              | *Bibliotheca Orientalis*. Leiden. |
 | **CDOG**                                                              | *Internationales Colloquium der Deutschen Orient-Gesellschaft*. Saarbrücken. |
 | **CMAO**                                                              | *Contributi e Materiali di Archeologia Orientale*. Roma. |
+| **CMAO 18**                                                           | Vacca, A.; Pizzimenti, S.; Micale, M.G. (a cura di) (2018). *A Oriente del Delta. Scritti sull'Egitto ed il Vicino Oriente Antico in onore di Gabriella Scandone Matthiae*. Roma. CMAO 18.
 | **Da Ebla a Damasco**                                                 | Anonymous (1985). *Da Ebla a Damasco: 10.000 di archeologia in Siria*. Milano. |
 | **Drinking**                                                          | Milano, L. (ed.) (1994). *Drinking in Ancient Societies. History and Culture of Drinks in the Ancient Near East. Papers of the Symposium Held in Rome, May 17-19, 1990*. Padova. History of the Ancient Near East, Studies 6. |
 | **Ebla 1975-1985**                                                    | Cagni, L. (a cura di) (1987). *Ebla 1975-1985. Dieci anni di studi linguistici e filologici: Atti del convegno internazionale (Napoli, 9-11 ottobre 1985)*. Napoli. Istituto Universitario Orientale di Napoli, Dipartimento di Studi Asiatici Series Minor XXVII. |
