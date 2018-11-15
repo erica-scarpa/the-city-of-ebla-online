@@ -17,7 +17,7 @@
 | **ArOr**                                                              | *Archív Orientální*. Praha. |
 | **Art of the First Cities**                                           | Aruz, J. (ed.) (2003). *Art of the First Cities. The Third Millennium B.C. from the Mediterranean to the Indus*. New Haven; London. |
 | **ASJ**                                                               | *Acta Sumerologica*. Hiroshima. |
-| **Atti dei Convegni Lincei 304**                                      | Matthiae, P. (a cura di) (2016). L*’archeologia del sacro e l’archeologia del culto. Sabratha, Ebla, Ardea, Lanuvio (Roma, 8-11 ottobre 2013). Ebla e la Siria dall’età del Bronzo all’età del Ferro*. Bari. Atti dei Convegni Lincei 304. |
+| **Atti dei Convegni Lincei 304**                                      | Matthiae, P. (a cura di) (2016). *L’archeologia del sacro e l’archeologia del culto. Sabratha, Ebla, Ardea, Lanuvio (Roma, 8-11 ottobre 2013). Ebla e la Siria dall’età del Bronzo all’età del Ferro*. Bari. Atti dei Convegni Lincei 304. |
 | **AuOr**                                                              | *Aula Orientalis*. Barcelona. |
 | **BAR S.**                                                            | *BAR International Series*. Oxford. |
 | **BeO**                                                               | *Bibbia e Oriente*. Bornato. |
