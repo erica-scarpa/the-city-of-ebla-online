@@ -1,6 +1,6 @@
-| Abbreviation                                                          |              |
+| Abbreviations                                                          |              |
 | -------------                                                         |:-------------| 
-| **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
+| **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
 | **AAAS 57-58**                                                        | Matthiae, P.; Abdulkarim, M.; Pinnock, F.; Alkhalid, M. (eds.) (2014-2015), *Studies on the Archaeology of Ebla After 50 Years of Discoveries*. Damas. |
 | **AfO**                                                               | *Archiv für Orientforschung*. Wien. |                                        
 | **AION**                                                              | *Annali dell’Istituto Orientale di Napoli*. Roma; Napoli. |
@@ -114,5 +114,5 @@
 | **WO**                                                                | *Die Welt des Oriens*. Göttingen; Tübingen. |
 | **ZA**                                                                | *Zeitschrift für Assyriologie*. Berlin; München. |
 | **ZDMG**                                                              | *Zeitschrift der Deutschen Morgenländischen Gesellschaft*. Wiesbaden. |
-| **ZOrA**                                                              | *Zeitschrift für Orient-Archäologie*. Berlin; Boston. |
+| **ZOrA**                                                              | *Zeitschrift für Orient-Archäologie*. Berlin; Boston. |
 | **Древняя Эбла**                                                      | Diakonoff, I. M.; Matthiae, P.(eds.) (1985). *Древняя Эбла. Раскопки в Сирии*. Moskva. |
