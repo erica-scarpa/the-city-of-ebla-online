@@ -1,6 +1,6 @@
-| Abbreviation                                                          |              |
+| Abbreviations                                                          |              |
 | -------------                                                         |:-------------| 
-| **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
+| **AAAS**                                                              | *Annales Archéologiques de Syrie* (or *A. A. Arabes Syriennes*). Damascus. |
 | **AAAS 57-58**                                                        | Matthiae, P.; Abdulkarim, M.; Pinnock, F.; Alkhalid, M. (eds.) (2014-2015), *Studies on the Archaeology of Ebla After 50 Years of Discoveries*. Damas. |
 | **AfO**                                                               | *Archiv für Orientforschung*. Wien. |                                        
 | **AION**                                                              | *Annali dell’Istituto Orientale di Napoli*. Roma; Napoli. |
@@ -17,7 +17,7 @@
 | **ArOr**                                                              | *Archív Orientální*. Praha. |
 | **Art of the First Cities**                                           | Aruz, J. (ed.) (2003). *Art of the First Cities. The Third Millennium B.C. from the Mediterranean to the Indus*. New Haven; London. |
 | **ASJ**                                                               | *Acta Sumerologica*. Hiroshima. |
-| **Atti dei Convegni Lincei 304**                                      | Matthiae, P. (a cura di) (2016). L*’archeologia del sacro e l’archeologia del culto. Sabratha, Ebla, Ardea, Lanuvio (Roma, 8-11 ottobre 2013). Ebla e la Siria dall’età del Bronzo all’età del Ferro*. Bari. Atti dei Convegni Lincei 304. |
+| **Atti dei Convegni Lincei 304**                                      | Matthiae, P. (a cura di) (2016). *L’archeologia del sacro e l’archeologia del culto. Sabratha, Ebla, Ardea, Lanuvio (Roma, 8-11 ottobre 2013). Ebla e la Siria dall’età del Bronzo all’età del Ferro*. Bari. Atti dei Convegni Lincei 304. |
 | **AuOr**                                                              | *Aula Orientalis*. Barcelona. |
 | **BAR S.**                                                            | *BAR International Series*. Oxford. |
 | **BeO**                                                               | *Bibbia e Oriente*. Bornato. |
@@ -114,5 +114,5 @@
 | **WO**                                                                | *Die Welt des Oriens*. Göttingen; Tübingen. |
 | **ZA**                                                                | *Zeitschrift für Assyriologie*. Berlin; München. |
 | **ZDMG**                                                              | *Zeitschrift der Deutschen Morgenländischen Gesellschaft*. Wiesbaden. |
-| **ZOrA**                                                              | *Zeitschrift für Orient-Archäologie*. Berlin; Boston. |
+| **ZOrA**                                                              | *Zeitschrift für Orient-Archäologie*. Berlin; Boston. |
 | **Древняя Эбла**                                                      | Diakonoff, I. M.; Matthiae, P.(eds.) (1985). *Древняя Эбла. Раскопки в Сирии*. Moskva. |
