@@ -102,7 +102,7 @@
         "bibo:language":"en-EN",
         "bibo:publisher": "Harassowitz",
         "bibo:isbn": "978-3-447-11873-6",
-        "bibo:series":"Proceedings of the International Congress on the Archaeology of the Ancient Near East"
+        "bibo:series":"Proceedings of the International Congress on the Archaeology of the Ancient Near East",
         "bibo:seriesnumber":"12/1",
         "dc:contributor": "Erica Scarpa"
       },
