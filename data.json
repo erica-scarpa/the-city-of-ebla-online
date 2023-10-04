@@ -46,7 +46,8 @@
         "dc:date": "1982",
         "bibo:language": "it-IT",
         "bibo:publisher": "Istituto Universitario Orientale di Napoli",
-        "bibo:note": "In this volume Giovanni Pettinato offers the first edition of the most important bilingual lexical documents found at Ebla. In the introduction the author describe the main sources: the volume contains 114 bilingual texts (mostly fragmentary), of which 60 documents plus 12 fragments are classified as sources of the bilingual vocabulary. Furthermore, 39 documents plus 3 fragments belong to the group of the so-called ‘estratti del vocabolario’ (<i>EV</i>). <i>MEE</i> 4 also includes the edition of the main manuscript (source) of the unilingual eš-bar-kin₅ acrographic series, which constitutes the backbone of the bilingual vocabulary. The last document (<i>MEE</i> 4, 116) has been recognized as a Bilingual List of Animals. Volume II has not been published. The identification of the sources (<i>i.e.</i>, manuscripts) of the <i>VE</i> has since been substantially revised."
+        "bibo:note": "In this volume Giovanni Pettinato offers the first edition of the most important bilingual lexical documents found at Ebla. In the introduction the author describe the main sources: the volume contains 114 bilingual texts (mostly fragmentary), of which 60 documents plus 12 fragments are classified as sources of the bilingual vocabulary. Furthermore, 39 documents plus 3 fragments belong to the group of the so-called ‘estratti del vocabolario’ (<i>EV</i>). <i>MEE</i> 4 also includes the edition of the main manuscript (source) of the unilingual eš-bar-kin₅ acrographic series, which constitutes the backbone of the bilingual vocabulary. The last document (<i>MEE</i> 4, 116) has been recognized as a Bilingual List of Animals. Volume II has not been published. The identification of the sources (<i>i.e.</i>, manuscripts) of the <i>VE</i> has since been substantially revised.",
+        "dc:contributor":"Erica Scarpa"
       },
       {
         "@context": {
@@ -91,15 +92,19 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Document",
-        "dc:title": "Title of the Conference Paper 3",
-        "dc:creator": ["Author, John", "Doe, Margare"],
-        "dc:date": "2021",
-        "bibo:editor": "Editor, Jane",  
-        "bibo:booktitle": "Proceedings of the International Conference on ABC",
-        "bibo:pages": "123-135",
-        "bibo:publisher": "IEEE",
-        "bibo:doi": "example_doi123",
-        "dc:abstract": "This is the abstract of the conference paper."
+        "@id":"3021",
+        "dc:title": "The Ebla Region from the Early to the Middle Bronze Age: Reading Socio-cultural Changes in Settlement Patterns and Material Culture",
+        "dc:creator": ["Agnese Vacca","Marta D'Andrea"],
+        "dc:date": "2023",
+        "bibo:editor": ["Niccolò Marchetti","Michael Campeggi","Francesca Cavaliere","Claudia D'Orazio","Gabriele Giacosa","Eleonora Mariani"],  
+        "bibo:booktitle": "Proceedings of the 12th international congress on the archaeology of the Ancient Near East: 06-09 April 2021, Bologna, Volume 1: Environmental Archaeology. Hammering the Material World. Cognitive Archaeology. Modeling the Past. Networked Archaeology. Endangered Cultural Heritage",
+        "bibo:pages": "879-893",
+        "bibo:language":"en-EN",
+        "bibo:publisher": "Harassowitz",
+        "bibo:isbn": "978-3-447-11873-6",
+        "bibo:series":"Proceedings of the International Congress on the Archaeology of the Ancient Near East"
+        "bibo:seriesnumber":"12/1",
+        "dc:contributor": "Erica Scarpa"
       },
       {
         "@context": {
