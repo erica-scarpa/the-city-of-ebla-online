@@ -1,0 +1,5 @@
+Ebla Digital Archives Bibliographic Index
+
+The Ebla Digital Archives (EbDA) Bibliographic Index, now encompassing over 3000 references, serves as the most comprehensive list of publications related to the city of Ebla and its field of inquiry. Originally published by Erica Scarpa under the title 'The City of Ebla' (2017), this online index continues to be regularly updated by the same author. It includes all references crucial for delving into the archaeological and textual remnants of the ancient city of Ebla. New references are regularly integrated into the index as new publications emerge, including materials that were inadvertently omitted from the printed edition.
+
+The index is accessible for browsing on the Ebla Digital Archives project website. Furthermore, the index is now available also as a Zotero group library, which includes all the references published in the book as well as most recent additions.
