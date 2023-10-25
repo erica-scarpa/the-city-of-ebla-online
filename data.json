@@ -4,6 +4,25 @@
           "bibo": "http://purl.org/ontology/bibo/",
           "dc": "http://purl.org/dc/terms/"
         },
+        "@type": "bibo:Conference",
+        "@id": "0577",
+        "dc:title": "Just at that Time. <sup>14</sup>C Determinations and Analysis from EB 4A Layer",
+        "dc:creator": ["Lucio Calcagnile", "Gianluca Quarta", "Marta D'Elia"],
+        "dc:date": "2013",
+        "bibo:editor": ["Paolo Matthiae", "Niccolò Marchetti"], 
+        "bibo:booktitle": "Ebla and Its Landscape: Early State Formation in the Ancient Near East",
+        "bibo:pages": "450-458",
+        "bibo:language": "en-EN",
+        "bibo:publisher": "Taylor & Francis",
+        "bibo:isbn": "978-1-61132-228-6",
+        "bibo:note": "The paper provides an in-depth account of the methodologies and outcomes of the 14C analyses performed on sixteen samples extracted from short-lived plant species gathered from Royal Palace G and Building P4 between 1988 and 1990. The analyses ascertain that, apart from a single outlier, all samples are likely to date to calibrated years 2367–2293 BCE.",
+        "dc:contributor": "Erica Scarpa"
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
         "@type": "bibo:Article",
         "@id": "3019",
         "dc:title": "É dingir-dingir(-dingir), « Sanctum des ancêtres divinisés », dans les textes d’Ébla",
