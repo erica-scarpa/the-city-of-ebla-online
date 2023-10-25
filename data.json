@@ -24,6 +24,26 @@
           "bibo": "http://purl.org/ontology/bibo/",
           "dc": "http://purl.org/dc/terms/"
         },
+        "@type": "bibo:Conference",
+        "@id": "2788",
+        "dc:title": "The Role of Women in Work and Society in the Ebla Kingdom (Syria, 24th century BC)",
+        "dc:creator": ["Maria Giovanna Biga"],
+        "dc:date": "2016",
+        "bibo:editor": ["Brigitte Lion","Cécile Michel"],
+        "bibo:booktitle": "The Role of Women in Work and Society in the Ancient Near East",
+        "bibo:language": "en-EN",
+        "bibo:pages": "71-89",
+        "bibo:publisher": "De Gruyter",
+        "bibo:series": "Studies in ancient Near Eastern Records",
+        "bibo:seriesnumber": "13",
+        "bibo:doi": "https://doi.org/10.1515/9781614519089-007",
+        "bibo:ISBN": "978-1-61451-913-3"
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
         "@type": "bibo:Article",
         "@id": "3019",
         "dc:title": "É dingir-dingir(-dingir), « Sanctum des ancêtres divinisés », dans les textes d’Ébla",
