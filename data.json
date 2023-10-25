@@ -1,5 +1,5 @@
 [
-  {
+        {
     "@context": {
       "bibo": "http://purl.org/ontology/bibo/",
       "dc": "http://purl.org/dc/terms/"
@@ -16,984 +16,170 @@
     "bibo:note": "In this paper Archi offers the edition of the Eblaite version of the ED Names and Professions list (75.2659 +75.2661+75.2662+75.2663+75.3439+75.10007). The author suggests that the copy found at Ebla is not local, but imported (most likely from/through Mari). He briefly comments on the colophon, which bears in fact the name of scribe \\emph{Ir}\\textsubscript{3}-\\emph{za-il} and a praise to god Zababa \u201cking of Ki\u0161\u201d. He further proceeds on a comparison between the Abu Salabikh and Eblaite versions, observing several differences in content and palaeography (178-179; see also tables I-II). As a result of this analysis, the author concludes that the Ebla copy does not come directly from Abu Salabikh. He further comments on the content of the list, suggesting that it does not represent an actual personnel roster, but rather a scribal exercise. On pages 181-189 the full edition of the Ebla tablet is presented, followed by correspondences with the Abu Salabikh versions and indexes. Contains four pictures of the Ebla version. See also Archi, \\emph{RA} 78 (1984) with three more fragments containing the incipit of the composition.",
     "@type": "bibo:Article"
   },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The \"{{Names}} and {{Professions List}}\": {{More Fragments}} from {{Ebla}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1984",
-    "bibo:journal": "Revue d'Assyriologie et d'arch\u00e9ologie orientale",
-    "bibo:shortjournal": "RA",
-    "bibo:volume": "78",
-    "bibo:pages": "171--174",
-    "bibo:url": "https://www.jstor.org/stable/23282275",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Lexical compositions at Ebla",
-    "bibo:note": "This paper further expands the edition of the Eblaite version of the ED lexical list known as \u2018Names and Professions\u2019 (previously published by the same author Archi, 'Lista di nomi e professioni'). The author adds three small fragments (75.11201+11310, plus one from bag XXXIII), fundamental for the restoration of the first lines. Contains pictures and handcopies of the new fragments.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Un autre document de Ti\u0161a-Lim, reine d\u2019Im\u00e2r",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1993",
-    "bibo:journal": "Mari. Annales de Recherches Interdisciplinaires",
-    "bibo:shortjournal": "MARI",
-    "bibo:volume": "7",
-    "bibo:pages": "341--342",
-    "dc:language": "french",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Women at Ebla",
-    "bibo:note": "In this brief note Alfonso Archi offers the edition of an administrative document involving Emar queen~\\emph{ti-\u0161a-li-im}. The inventory number is omitted. EST 009 = TM.75.G.2304 = Archi, \\emph{MARI} 6 (1990), ARET XIII 8 = TM.75.G.1986+, and ARET XIII 7 = TM.75.G.2396, are also mentioned.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Les comptes rendus annuels de m\u00e9taux (CAM)",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1996",
-    "bibo:pages": "73--99",
-    "dc:language": "french",
-    "bibo:note": "The article by Archi discusses a collection of large tablets found at Ebla, which are similar in shape to monthly textiles distribution. These tablets, referred to as the annual accounts of silver and gold are date to different periods. The tablets from the first phase, attributed to minister Ibrium, have fifteen to nineteen columns on both sides. As Ebla's economic power increased under Ibbi-Zikir, the tablets grew larger, exceeding twenty columns. The accounts show a significant progression in silver quantities over time. For example, one tablet records an outflow of 100.49 mines of silver, while another reports an outflow of 273.46 silver minas and 437 mines from the treasury. The tablets also occasionally provide information related to chronology. Some colophons mention the passage of time, such as \"2 mu\" or \"x mu \u00e9 en diri.\" The annual nature of these documents is further demonstrated by periodic cult offerings, including those for the god Hadda in the third and eighth months, as well as the presence of two bracelets for the gods Ammarig and A\u0161dabil in all complete texts.\n\\par\nThe longest documents in the collection refer to events that span several months, although the chronological order is not always maintained. The AAMs serve as a supporting backbone for arranging the remaining epigraphic material in chronological order.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Les femmes du roi Irkab-Damu",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1996",
-    "bibo:pages": "101--124",
-    "dc:language": "french",
-    "dc:keywords": "Cult and Religion at Ebla,DAM.DINGIR,Women at Ebla",
-    "bibo:note": "This paper discusses three documents (TM.75.G.2551 = text 1, MEE 12 20 = TM.75.G.2168, and TM.75.G.2624) listing dozens of members of Ebla's royal family. After discussing their chronological order, Archi focuses on five women of Palace G court:~\\emph{ke\u0161}\u2082-\\emph{du-ut},~\\emph{dag-mul-da-mu},~\\emph{dar-kab-du-rum},~\\emph{di-rin}\\textsubscript{x}-\\emph{da-mu}, and~\\emph{zar}\u2083-\\emph{i}-\\emph{ig-da-mu}, and a few royal sons. Note that the following quoted documents have since been published: ARET XIX 2 = TM.75.G.1263; ARET XIX 3 = TM.75.G.1298; ARET XIX 5 = TM.75.G.1318+; ARET XIX 6 = TM.75.G.1319; ARET XV 21 = TM.75.G.1364; ARET XV 22 = TM.75.G.1440; ARET XV 25 = TM.75.G.1457; ARET XV 26 = TM.75.G.1535; ARET XV 27 = TM.75.G.1537; ARET XV 29 = TM.75.G.1567; MEE 10 29 = TM.75.G.1918; ARET XV 43 = TM.75.G.1940; MEE 12 15 = TM.75.G.2122; MEE 12 20 = TM.75.G.2168; EST 001 = TM.75.G.2283; ARET XX 24 = TM.75.G.2324; ARET XX 17 = TM.75.G.2328; ARET XX 19 = TM.75.G.2331; ARET XX 25 = TM.75.G.2334; MEE 12 33 = TM.75.G.2349.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The High Priestess, dam-dingir, at Ebla",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1998",
-    "bibo:pages": "43--53",
-    "dc:language": "ngerman",
-    "dc:keywords": "Cult and Religion at Ebla,DAM.DINGIR,Women at Ebla",
-    "bibo:note": "In this study, Archi investigates the role of the DAM.DINGIR priestesses at Ebla. He considers four Eblaite women who fullfilled this role during the age of the Archives: Tirin-damu, Tinib-durum, Tarib-damu, and Amaga. The author analytically collects and presents evidence concerning these women: all were royal daughters, although a few passages suggest a few DAM.DINGIR belonged to the viziers' family (such as~\\emph{ti-a-bar-zu}\u2082). In the closing remarks, Archi concludes that all priestesses were connected to the city of Luban and the cult of god \u02be\\emph{a}\u2085(NI)-\\emph{da-bal}\\textsubscript{(x)}. However, their specific activities remain difficult to define. Note that the following quoted documents have since been published: ARET XIX 2 = TM.75.G.1263; ARET XIX 3 = TM.75.G.1298; ARET XIX 10 = TM.75.G.1326; ARET XV 8 = TM.75.G.1348; ARET XV 25 = TM.75.G.1457; MEE 7 24 = TM.75.G.1730 (according to Archi other pieces join this tablet, since he quotes it as TM.75.G.1730+; however,~MEE~7 34 takes into consideration only TM.75.G.1730); MEE 7 44 = TM.75.G.1764; ARET XX 6 = TM.75.G.1770; MEE 10 20 = TM.75.G.1860; MEE 10 41 = TM.75.G.2022; ARET XVI 26 = TM.75.G.2094; MEE 12 25 = TM.75.G.2122; MEE 12 20 = TM.75.G.2168; ARET XX 17 = TM.75.G.2328; ARET XX 25 = TM.75.G.2334; MEE 12 35 = TM.75.G.2428; ARET XX 15 = TM.75.G.2443.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Cereals at {{Ebla}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1999",
-    "bibo:journal": "Arch\u00edv Orient\u00e1ln\u00ed",
-    "bibo:shortjournal": "ArOr",
-    "bibo:volume": "67",
-    "bibo:pages": "503--518",
-    "bibo:note": "Reprinted in Archi, \\emph{SANER} 7 (2015), 321-332.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Clothes in {{Ebla}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1999",
-    "bibo:pages": "45--54",
-    "dc:keywords": "Fashionable Outfits,Textiles at Ebla",
-    "bibo:note": "Despite being one of the most frequently mentioned goods, little is known on the price and value of garments at Ebla. Here Archi overviews some among the most important sets and single items of clothing mentioned in the administrative record. A list of garments and their prices is included. Reprinted in Archi, \\emph{SANER} 7 (2015), 311-320.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The 'Lords', lugal-lugal, of Ebla. A Prosopographic Study",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2000",
-    "bibo:journal": "Vicino Oriente",
-    "bibo:shortjournal": "VO",
-    "bibo:volume": "12",
-    "bibo:pages": "19--59",
-    "dc:language": "italian",
-    "dc:keywords": "{Society, Professions, and Roles at Ebla}",
-    "bibo:note": "In this paper Archi collects and briefly discusses all the available textual evidence on the Eblaite \u2018lords\u2019 (lugal). The author first describes and discusses the mu-DU documents, a group of texts concerned with precious metals incomes: these are the main source of prosopographical data with reference to the \u2018lords\u2019. Archi further discusses the most prominent lords, whose names recur most frequently in the mu-DU texts. In the remaining paragraphs the author summarizes the complete prosopography for each mu-DU document in chronological order. An index of all cited personal names is included.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Jewels for the {{Ladies}} of {{Ebla}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2002",
-    "bibo:journal": "Zeitschrift f\u00fcr Assyriologie und Vorderasiatische Arch\u00e4ologie",
-    "bibo:shortjournal": "ZA",
-    "bibo:volume": "92",
-    "bibo:pages": "161--199",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "In this paper, Archi focuses on the gifts delivered to court ladies on their marriages or funerary ceremonies. He considers eleven case studies: six marriages (those of~\\emph{i-ti-mu-ud},~\\emph{ti-a-i-\u0161ar},~\\emph{ri}\u2082-\\emph{i}\u2083-\\emph{du},~\\emph{ar-za-du},~\\emph{zu-ga}-LUM) and four funerals (those of~\\emph{gi-mi}-NI-\\emph{za-du},~\\emph{da-ri-ib-da-mu},~\\emph{ti-i\u0161-te-da-mu},~\\emph{du-si-gu}\u2082). In addition, Archi also takes into consideration~\\emph{ti-ne-ib}\u2082-\\emph{du-rum'}s consecration as priestess (DAM.DINGIR). After a detailed analysis of the gifts delivered on these occasions, Archi concludes that upon their deaths women received the same set of garments and jewels delivered to them on the occasion of their weddings. He further proceeds describing the full set of garments and jewels generally delivered to high ranking women upon these occasions. He then investigates the gifts generally brought by the deceased to their ancestors, and concludes with a few remarks on the wailing rite. A detailed index of the jewels considered in this study is included. Note that the following quoted documents have since been published: ARET XV 29 = TM.75.G.1567; MEE 7 29 = TM.75.G.1705; MEE 7 50 = TM.75.G.1781; MEE 10 20 = TM.75.G.1860; MEE 10 29 = TM.75.G.1918; ARET XV 47 = TM.75.G.2165; ARET XX 25 = TM.75.G.2334; MEE 12 35 = TM.75.G.2428; MEE 12 35 = TM.75.G.2508. Furthermore, ARET XII 874 = TM.75.G.5317 has been published as a fragment, but in this study is quoted as~TM.75.G.1250+TM.75.G.5317.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Cult of the {{Ancestors}} and {{Funerary Practices}} at {{Ebla}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2012",
-    "bibo:pages": "5--31",
-    "dc:keywords": "{Death, Funerary Practices, and Burials at Ebla}",
-    "bibo:note": "Archi then studies the term E\\textsubscript{2}\u00d7PAP starting from the lexical evidence. [Note that the first gloss e\\textsubscript{2}-pap / \\emph{ar}\\textsubscript{3}-\\emph{ra-tum}, \u02be\\emph{a}\\textsubscript{3}-\\emph{ra-tum }is attested in two \u2018estratti del vocabolario\u2019 (abbreviated \\emph{EV}; 75.1301 = \\emph{M 4} 73, 75.1302 = \\emph{M} 4 74) and not in the \\emph{V}(ocabolario di) \\emph{E}(bla). On these two excerpts see Bonechi, \\emph{CDLJ} 2016:2)]",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{West Hurrian Pantheon}} and {{Its Background}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2013",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "\\emph{Minima Eblaitica} 27: Sumerian KA-ma, Eblaite \\emph{b\u00f9-g\u00fa-um} \u201cmonkey\u201d",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2022",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2022/80",
-    "bibo:pages": "176--178",
-    "dc:language": "italian",
-    "dc:keywords": "Animals at Ebla,Eblaite: Lexicon",
-    "bibo:note": "In this note Archi further corroborates the interpretation already suggested by Biga and Roccati, 'Names at the Crossroads' (2022) and Biga and Steinkeller, 'Dugurasu' (2021) of KA.MA = \\emph{bu}\u2083-\\emph{gu}\u2082-\\emph{um}, \u201cmonkey\u201d. In addition, he briefly discusses the identification of the GNs Dugurasu, DUlu, and Armi.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "\\emph{Minima }{{\\emph{Eblaitica}}} 26: {{A Point}} of {{History}}: {{The Death}} of {{King Irkab-damu}}, and the {{Synchronism Between}} the {{Death}} of {{Two Kings}} of {{Mari}} and {{Two Kings}} of {{Kakmium}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2022",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2022/46",
-    "bibo:pages": "103--104",
-    "dc:keywords": "Chronology at Ebla,{Warfare, Diplomacy, and Politics at Ebla}",
-    "bibo:note": "ARET XV 10 = TM.75.G.1358 mentions the gift ArruLUM\u2019s wife receive for the purification following her husband\u2019s death. This is the fact that introduces several observations on synchronisms between military campaigns mentioned in the texts (such as those against \u1e2aazuwan and \u2018Atidu) and the death of several main characters. Most cited documents are still unpublished.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Minima {{Eblaitica}} 28 {{The}} Signs {{KU}} and {{DUR}}\u2082, and the Meaning of {{KU}}/{{DUR}}\u2082.{{LU}}\u2082\u00d7{{TIL}}",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "2023",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2023/37",
-    "bibo:pages": "80--82",
-    "bibo:url": "https://sepoa.fr/wp/wp-content/uploads/2023/08/NABU-2023-2.pdf",
-    "bibo:note": "In this short note, Archi presents palaeographic insights into the symbols KU and DUR\u2082, particularly their significance when associated with the term TU\u0160.LU\u2082\u00d7TIL. According to the author's interpretation, this term could signify \"to occupy\" or \"to reside.\"",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Ebla Chancery Texts}} in the {{Light}} of {{Recent Linguistic Research}}",
-    "dc:creator": "Arkhipov, Ilya and Kogan, Leonid Efimovich",
-    "dc:date": "2022-11-01",
-    "bibo:journal": "Altorientalische Forschungen",
-    "bibo:volume": "49",
-    "bibo:pages": "183--196",
-    "dc:keywords": "Eblaite Language,Eblaite: Lexicon",
-    "bibo:note": "In this paper Arkhipov and Kogan offer ~new interpretations for eleven\u201clexical and semi-grammatical elements\u201d occurring in the so-called chancery documents. These are: \\textbf{\u02bf-k-d} (\u0160), \u201cto rush, to be quick\u201d; \\textbf{\u02bf-\u1e6d-r}, \u201cto take away; to remove\u201d; \\textbf{GUR\\textsubscript{8}}, \u201cwages, price of hiring\u201d; \\textbf{h-w-y}, \u201cto be; to become; top turn into\u201d; /\\textbf{-k}/, enclitic particle; \\textbf{KA.DIB}, \u201cto advise\u201d; /\\textbf{\u1e33ab(i)Lay(n)}/, \u201cmiddle\u201d; \\textbf{NIG\\textsubscript{2}.DUMU.ZI}, \u201cto pick up, to select\u201d; /\\textbf{nu\u1e25nu}/, \u201cwe\u201d; /\\textbf{pa}/, conjunction; \\textbf{\u0161-y-n}, \u201cto want; to wish; to request\u201d. The authors also announce (184n1) their forthcoming re-editions of two diplomatic documents (\\emph{ARET }XIII, 15 and \\emph{ARET }XVI 27).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "{{\u00c9}}\u00d7{{PAP}} and the {{Eblaite Administrative Terminology}}",
-    "dc:creator": "Baldacci, Massimo",
-    "dc:date": "1991",
-    "bibo:journal": "Die Welt des Orients",
-    "bibo:shortjournal": "WO",
-    "bibo:volume": "22",
-    "bibo:pages": "10--20",
-    "bibo:url": "https://www.jstor.org/stable/25683379",
-    "dc:keywords": "{Death, Funerary Practices, and Burials at Ebla}",
-    "bibo:note": "In this paper, Baldacci focuses on an elusive term (E\\textsubscript{2}\u00d7PAP). The author first summarizes all suggested readings and translations up to the date of publication (1991). He then classifies all the contexts in which the term appears (alone, preceded by the preposition \\emph{si-in}, and in more complex sentences). He then proceeds offering indexes referred to the persons involved and to the objects of the transactions. Baldacci then analyzes the lexical evidence, namely \\emph{VE} 315 e\\textsubscript{2}-pap // \u02be\\emph{a}\\textsubscript{3}-\\emph{ra-tum}, \\emph{ar}\\textsubscript{3}-\\emph{ra-tum}: he then concludes suggesting that the term presents a strong administrative relevance and that it may have a meaning such as \u201cgift\u201d or \u201callotment\u201d. It is clear today that the term is connected to the funerary sphere and is variously translated as \u201ccemetery\u201d, \u201ctomb\u201d, or \u201cfunerary ceremony\u201d. Any more precise connotation has not been yet suggested. For a recent account on the lexical evidence regarding this term, see Hajouz 2013, 274-275. See also Archi \\emph{Qatna Studien, Supplementa} 1 (2012), 11.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Tablets}} of {{Ebla}}. {{Concordance}} and {{Bibliography}}",
-    "dc:creator": "Beld, Scott G. and Hallo, William W. and Michalowski, Piotr",
-    "dc:date": "1984",
-    "bibo:note": "Reviewed by Davidovi\u0107, \\emph{JAOS }107 (1987), 330\u2013331.",
-    "@type": "bibo:Book"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Femmes de la famille royale d\u2019Ebla",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "1987",
-    "bibo:pages": "41--47",
-    "dc:language": "french",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "This paper is one of the earliest studies on the women of the royal family. After a few introductory remarks on the kind of kin relationships tying them to the court, Biga introduces the dam en lists (which will be further investigated by Tonietti in 1989). She discusses the meaning of Sum. dam at Ebla, and observes how the term probably indicated the kings' secondary wives. Biga then discusses several cases of royal intermarriages, such as that of~\\emph{ke\u0161}\u2082-\\emph{du-ut}~(=~\\emph{\u1e2bir-du-ut}),~\\emph{za-ne-\u1e2bi-ma-ri}\u2082\\textsuperscript{ki},~\\emph{ti-i\u0161-te-da-mu}, and more. Note that the following quoted documents have since been published: MEE 7 34 = TM.75.G.1730; MEE 12 36 = TM.75.G.2429; ARET XIX 2 = TM.75.G.1263; ARET XX 7 = MEE 7 35 = TM.75.G.1731; ARET XX 6 = TM.75.G.1770; AERET VII 45 = MEE 7 4 = TM.75.G.1593; ARET XII 874 = TM.75.G.5317.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Donne alla corte di Ebla",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "1991",
-    "bibo:journal": "La Parola del Passato. Rivista di Studi Antichi",
-    "bibo:shortjournal": "PdP",
-    "bibo:volume": "46",
-    "bibo:pages": "285--303",
-    "dc:language": "italian",
-    "dc:keywords": "{Society, Professions, and Roles at Ebla},Women at Ebla",
-    "bibo:note": "Although physical spaces inhabited by women are difficult to identify, the administrative record of Palace G sporadically refers to such quarters. Biga here also reviews the roles of six important female groups at court: the king\u2019s mother, the queen, the secondary wives, the wet-nurses, the royal daughters, the dancers.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Marriage}} of {{Eblaite Princess Tagri\u0161-Damu}} with a {{Son}} of {{Nagar}}\u2019s {{King}}",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "1998",
-    "bibo:pages": "17--22",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "In this article, Biga examines the documents related to Tagri\u0161-damu (\\emph{tag-ri}\u2082-\\emph{i\u0161-da-mu}), a royal daughter who married the son of Nagar's king. Biga delves into various passages within two documents to shed light on this significant event. The first document, TM.75.G.1249, provides evidence of a meeting at Armi involving Minister Ibbi-zikir, envoys from Ki\u0161, and the king of Nagar accompanied by his son. Subsequently, the king of Nagar and his entourage followed Ibbi-zikir to Ebla, where they discussed the marriage agreement between Tagri\u0161-damu and the son of Nagar's king. The second source, TM.75.G.1250, documents the wedding ceremony itself, along with the exchange of several gifts, including those given to the bride. Biga explores the distinct stages that mark royal intermarriages, encompassing the negotiation of marriage agreements, the subsequent celebrations, and the departure of the bride to her new home.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "({{Foreign}}) {{Veterinarians}} at {{Ebla}}",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2006",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2006/84",
-    "bibo:pages": "85",
-    "dc:keywords": "Animals at Ebla",
-    "bibo:note": "A brief note on unpublished MAT TM.75.G.2287+TM.75.G.10157 where two a:zu\u2085 kunga\u2082 (lit.\u201cphysicians of the kunga\u2082\u201d) from Nagar appear.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "On {{Equids}}, {{Other Animals}} and {{Veterinarians}} in the {{Texts}} of the {{Ebla}}\u2019s {{Archives}} ({{Syria}}, 3rd {{Millennium B}}.{{C}}, {{XXIV Cent}}. {{B}}.{{C}}.)",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2009",
-    "bibo:pages": "41--56",
-    "dc:keywords": "Animals at Ebla",
-    "bibo:note": "Various animals are mentioned in lexical and administrative sources. However, since many lexical compositions are of Mesopotamian origin, they include references to animals foreign to the Syrian landscape. Biga overviews data on the different animals mentioned in the administrative sources, such as sheep, goats, onagers and donkeys, and more exotic animals.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Marriage}} of an {{Eblaite Princess}} with the {{King}} of {{Dulu}}",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2014",
-    "bibo:pages": "73--79",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "This paper belong to the series of studies focused on royal intermarriages at Ebla. Here Biga studies several documents regarding the marriage between~\\emph{da-mur-da-\u0161e}\u2083-\\emph{in}~(Ibrium's brother's daughter; also spelled~\\emph{dam-mur-da-\u0161e}\u2083-\\emph{in}~and~\\emph{da-mur-da-si-nu}) and an unnamed king of Dulu. The most important documents belonging to this dossier are:~TM.75.G.2329, which registers the bride's dowry; ARET X 18 (unpublished, probably TM.75.G.313 from Small Archive L.2712), where the scribes registered wooden chests for~\\emph{da-mur-da-\u0161e}\u2083-\\emph{in'}s travel to Dulu; ARET X 74 (maybe TM.75.G.458)~and ARET X 75 (= TM.75.G.298?; both unpublished, from Small Archive L.2712), possibly dealing with the wedding's banquet. In her final remarks, Biga discusses the possible location of the city of Dulu.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Role}} of {{Women}} in {{Work}} and {{Society}} in the {{Ebla Kingdom}} ({{Syria}}, 24th Century {{BC}})",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2016",
-    "bibo:pages": "71--89",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "In this paper, Biga explores the role of women within the administrative records of Ebla. Initially, a general assessment is made regarding the social standing of high-ranking women, including the queen (\\emph{MA-LIK-TUM}), court ladies (dam en), and female relatives of the viziers. From there, specific attention is given to two prominent figures, Dusigu and Tabur-damu. The discussion then briefly touches upon the involvement of women in rituals, particularly in the context of royal marriages and the AN.EN.KI/\\textsuperscript{d}en\\textsuperscript{ki} ritual. Biga proceeds to provide an up-to-date summary of royal intermarriages at Ebla, with a focus on the significant participation of female members from the royal family.\n\\par\nFurthermore, attention is turned to the role of priestesses (DAM.DINGIR), highlighting passages suggesting the practice of offering young boys and girls as gifts to various deities. The examination concludes with an overview of female workers, encompassing valets (dam/dumu-mi\u2082 pa\u2084:\u0161e\u0161), wet-nurses (ga-du\u2088), midwives (\u0161a\u2083-zu/\\emph{mu-wa-li-dum}), physicians ([dam] azu[-mi\u2082]), entertainers (dancers/NE.DI, musical performers/nar), cooks (mu\u1e2baldim-mi\u2082), and those involved in textile production.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Gioielli per una fanciulla alla corte di Ebla",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2018",
-    "bibo:pages": "63--77",
-    "dc:language": "italian",
-    "dc:keywords": "Craftsmanship: (Precious) Artifacts at Ebla,{Ebla Tablets: Joins, Editions, and Discussions},Women at Ebla",
-    "bibo:note": "In this paper, Biga offers the edition of~TM.75.G.1679: the document registers expenditures of gold, silver, and jewels (also decorated with precious stones) for~\\emph{ti-a-ba-zu}\u2082's marriage with~\\emph{ba-du-lum}~(Ibrium's son). Biga then proceeds with discussing the identity of the event's main protagonists and their namesakes. She offers some remarks on the jewels mentioned in the texts (\\emph{ti-gi-na}, e\u2082~\\emph{wa}~2~\\emph{da-bi}\u2082-\\emph{tum},~\\emph{\u1e2ba-za-nu}), in particular the KA.KAK.BU necklace. In her concluding remarks, Biga also discusses the expression nig\u2082-a-de\u2083~i\u2083-gi\u0161~\\emph{a}~sag and its variants, a formula connected to the wedding ritual at Ebla.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Mr. {{Ushra-Samu}}/{{Irra-Samu}} of {{Ebla}} and {{His Seal}}",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2020",
-    "bibo:pages": "113--117",
-    "dc:keywords": "Antiquities,Excavations (Archaeology),Hittites,Turkey",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "\"{{Not Tonight}}, {{Josephine}}!\" {{Women}} at {{War}} in {{Third Millennium BCE Syria}}?",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2020",
-    "bibo:pages": "19--23",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "In this paper, Biga examines the hypothesis concerning the involvement of Eblaite women in warfare. Drawing from the sources detailing the campaign against Za\u1e2biran, Biga proposes that King I\u0161ar-damu began accompanying Ibrium, and later Ibbi-zikir, on military campaigns only starting from year Ib.XVI, corresponding to the dating of the campaign against Za\u1e2biran. Additionally, Biga disproves the idea that the king's mother (Dusigu) and queen (Tabur-damu) accompanied the king on his military expeditions. Specifically, Biga offers a new interpretation of a passage that, according to Archi, suggests the presence of Dusigu and Tabur-damu in a recently conquered town. The author adamantly refutes the hypothesis that Eblaite high-ranking women joined the king in battle, although she suggests the possibility of their involvement in providing assistance during military operations.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Relationships}} between {{Egypt}} and {{Syria}} in the 24th Century {{BCE According}} to the {{Texts}} of the {{City}} of {{Ebla}}, {{Syria}}",
-    "dc:creator": "Biga, Maria Giovanna",
-    "dc:date": "2023",
-    "bibo:journal": "Journal of Ancient Egyptian Interconnections",
-    "bibo:shortjournal": "JAEI",
-    "bibo:volume": "37",
-    "bibo:pages": "71--84",
-    "bibo:note": "In this paper, Biga conducts a comprehensive review of the data pertaining to the geographical name Dugurasu (\\emph{Du-gu}\\textsubscript{2}-\\emph{ra-su}\\textsuperscript{ki}), summarizing her previous research on the subject. The most compelling evidence supporting the identification of this location lies in the type and quantity of valuable items that were transported from Ebla to Dugurasu. The records from the Great Archive L.2769 make reference to the trade of tin, lapis lazuli, and silver. Additionally, these sources indicate that Ebla imported various precious items, including linen, gold, copper, bronze, hippo and elephant ivory, as well as objects made with precious stones, from Dugurasu.\n\\par\nBiga also examines the broader trade network of precious commodities that existed during that time, encompassing Anatolia, Syria, Babylonia, and Egypt. Another significant factor in the identification process is the connection between the GN DUlu and the city of Byblos, a city renowned for its trade relations with Egypt, which potentially served as a crucial stopover on the route from Egypt to Ebla.\n\\par\nBased on the evidence presented, Biga refutes the suggestion made by Alfonso Archi that Dugurasu corresponds to a city in modern-day Iran (Tukri\u0161).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Testi amministrativi: assegnazioni di tessuti (Archivio L. 2769)",
-    "dc:creator": "Biga, Maria Giovanna and Milano, Lucio",
-    "dc:date": "1984",
-    "dc:language": "italian",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "Reviewed by Waetzoldt, \\emph{BiOr }43, 428-436 (1986)",
-    "@type": "bibo:Book"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Un nouveau fragment d\u2019un texte lexical bilingue \u00e9bla\u00efte",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "1988",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "1988/58",
-    "bibo:pages": "41--42",
-    "bibo:url": "https://sepoa.fr/nabu/nabu-1988/",
-    "dc:language": "french",
-    "dc:keywords": "Lexical compositions at Ebla",
-    "bibo:note": "In this brief note Bonechi offers the edition of a text erroneously published among administrative documents in ARET III (ARET III 189 = TM.75.G.3220).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Remarks on the \u2018{{Road}} to {{Zamua}}\u2019",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "1996",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:volume": "1996/92",
-    "bibo:pages": "80--81",
-    "bibo:note": "Bonechi rejects the idea that Kakmium, \u1e2aassuwan, NIrar, Ga\u0161ur and Abarsal were located in the Transgridian area, as suggested by Frayne in his edition of the ED List of Geographical Names (\\emph{AOS} 74, 1992).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "On the {{Ebla Fragments}} of {{Sumerian Lexical List}} {{{\\emph{MEE}}}} 15 40, 41, 42, 43, 52, 53 and 61",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2018",
-    "bibo:journal": "Studia Eblaitica",
-    "bibo:shortjournal": "StEbl",
-    "bibo:volume": "4",
-    "bibo:pages": "215--220",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Lexical compositions at Ebla",
-    "bibo:note": "On this join, see the author\u2019s revision in \\emph{SCO} 68 (2022).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Miscellaneous {{Ebla Notes}}",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2021",
-    "bibo:journal": "Ugarit-Forschungen",
-    "bibo:shortjournal": "UF",
-    "bibo:volume": "52",
-    "bibo:pages": "41--68",
-    "bibo:note": "The six notes collected by Bonechi in this study concern the following topics:\n\\par\n\\begin{itemize}\n\n\\item \nthe occurrences of the spelling \u1e2aUB\u2082.SAG.DU (read as an Akkadogram \\emph{SA}\u2081\u2082:\\emph{RIG}\u2089 by the author) in the Ebla texts;\n\n\\item \nthe occurrences of the term \\emph{u}\u2083-\\emph{bu}\u2081\u2086(NI) in the Ebla texts;\n\n\\item \nARET XII 1227 = TM.75.G.5817, the fragment of a lexical composition, which the author tentatively identifies as a list of animals;\n\n\\item \nARET VII 154 = TM.75.G.1768, of which the author offers a new transliteration and interpretation;\n\n\\item \nARET XIII 10 = TM.75.G.12137\n\n\\item \na lenghty discussion on word order in Ebla documents.\n\n\\end{itemize}",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "TM.75.G.3262 = \\emph{ARET} III 226 + TM.75.G.1920 = \\emph{ARET} XV 42, an Ebla \\emph{t\u00e9l\u00e9joint}",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2022",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2022/81",
-    "bibo:pages": "178--179",
-    "dc:language": "italian",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "In this note Bonechi proposes a new join between ARET XV 42 = TM.75.G.1920 (published by Pomponio in 2013) and fragment ARET III 226 = TM.75.G.3262 published in 1982. The tablet is now complete. The author recognized in both fragments the occurrence of the unusual abbreviated spelling \\emph{mi} of the preposition \\emph{mi-in}. A new edition of the parts affected by the join is included. For the tablet, see ARET XV 42 = TM.75.G.1920 + ARET III 226 = TM.75.G.3262.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "An {{Overview}} of the {{Ebla Sumerian Lexical Lists Published}} in {{MEE}} 15",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2022",
-    "bibo:journal": "Studi classici e orientali",
-    "bibo:shortjournal": "SCO",
-    "bibo:volume": "68",
-    "bibo:pages": "7--30",
-    "dc:keywords": "Lexical compositions at Ebla",
-    "bibo:note": "In this paper Bonechi reassesses and updates the work done by Picchioni on the e\u0161\\textsubscript{2}-bar-kin\\textsubscript{5} lexical composition (\\emph{MEE} 15, 1997). In a detailed excursus Bonechi also revises his join of TM.75.G.5315+ = \\emph{MEE} 15 42+ (Bonechi, \\emph{StEbl} 4, 2018) and offers a revised edition of 75.2002+75.4521+75.4559 = \\emph{MEE} 15 25+66+69, 75.1926 = \\emph{MEE} 15 26, 75.3409+ = \\emph{MEE} 15 36, 75.5287+ = \\emph{MEE} 15 37, 75.5327= \\emph{MEE} 15 49, 75.3120 = \\emph{MEE} 15 50, and 75.5280 = \\emph{MEE} 15 54.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "La \"ruota del carro\" nei testi cuneiformi del Palazzo G di Ebla: nuove proposte",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2022",
-    "bibo:pages": "79--102",
-    "dc:language": "italian",
-    "dc:keywords": "Eblaite: Lexicon",
-    "bibo:note": "A detailed discussion of the terms generally interpreted as indicating the wheel in the Ebla Archives (\\textsuperscript{gi\u0161}umbin and \\textsuperscript{gi\u0161}GAM.GAM). In light of both lexical and administrative evidence, the author concludes that while \\textsuperscript{gi\u0161}umbin denotes in fact the wheel, while the \\textsuperscript{gi\u0161}GAM.GAM (read \\textsuperscript{gi\u0161}gur\\textsubscript{2}-gur\\textsubscript{2}) was a round part of the wheel itself (wheel rim?), often made with precious metal.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "{{TM}}.75.{{G}}.5278 = {{{\\emph{ARET}}}} {{XII}} 848 + {{TM}}.75.{{G}}.1985+{{TM}}.75.{{G}}.10188 = {{{\\emph{ARET}}}} {{XIV}} 82, an {{Ebla}} {\\emph{T\u00e9l\u00e9joint}}",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2023",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2023/3",
-    "bibo:pages": "8--10",
-    "bibo:url": "https://sepoa.fr/nabu-2023/",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "In this note Bonechi proposes a new join between ARET XIV 82 = TM.75.G.1985+TM.75.G.10188 (published by Archi in 2023) and fragment ARET XII 848 = TM.75.G.5278 published in 2006 by Lahlou and Catagnoti. A new edition of the parts affected by the join is included. For the tablet, see ARET XIV 82 = TM.75.G.1985+TM.75.G.10188 + ARET XII 848 = TM.75.G.5278.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "{{TM}}.75.{{G}}.5294 = {{{\\emph{ARET}}}} {{XII}} 858 + {{TM}}.75.{{G}}.2072 = {{{\\emph{ARET}}}} {{XIV}} 89, an {{Ebla}} {\\emph{T\u00e9l\u00e9joint}}",
-    "dc:creator": "Bonechi, Marco",
-    "dc:date": "2023",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2023/4",
-    "bibo:pages": "10--11",
-    "bibo:url": "https://sepoa.fr/nabu-2023/",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "In this note Bonechi proposes a new join between ARET XIV 89 = TM.75.G.2072 (published by Archi in 2023) and fragment ARET XII 858 = TM.75.G.5294 published in 2006 by Lahlou and Catagnoti. A new edition of the parts affected by the join is included. For the tablet, see ARET XIV 89 = TM.75.G.2072 + ARET XII 858 = TM.75.G.5294.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Just at That {{Time}}. {\\textsuperscript{14}}{{C Determinations}} and {{Analysis}} from {{EB 4A Layer}}",
-    "dc:creator": "Calcagnile, Lucio and Quarta, Gianluca and D\u2019Elia, Marisa",
-    "dc:date": "2013",
-    "bibo:pages": "450--458",
-    "bibo:note": "The paper provides an in-depth account of the methodologies and outcomes of the 14C analyses performed on sixteen samples extracted from short-lived plant species gathered from Royal Palace G and Building P4 between 1988 and 1990. The analyses ascertain that, apart from a single outlier, all samples are likely to date to calibrated years 2367\u20132293 BCE.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Les nains \u00e0 Ebla",
-    "dc:creator": "Catagnoti, Amalia",
-    "dc:date": "1989",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "1989/31",
-    "bibo:pages": "20--21",
-    "dc:language": "french",
-    "dc:keywords": "Eblaite: Lexicon,Music at Ebla",
-    "bibo:note": "The term ba-za (\u201ccripple; dwarf\u201d), first recognized by Waetzoldt, 'Review of ARET IV' (1986), 434, is here associated by Catagnoti with dwarves active at court. On the word KA.MA, for which the author offers no conclusive interpretation, see Biga and Steinkeller, 'Dugurasu' (2021) and Archi, 'Minima Eblaitica 27' (2022).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Il sillabario della quarta fonte della lista lessicale bilingue Eblaita",
-    "dc:creator": "Conti, Giovanni",
-    "dc:date": "1990",
-    "bibo:journal": "Miscellanea Eblaitica",
-    "bibo:shortjournal": "MisEb",
-    "bibo:volume": "3",
-    "bibo:pages": "8--220",
-    "dc:language": "italian",
-    "dc:keywords": "EVoCARE Bibliography,Lexical compositions at Ebla",
-    "bibo:note": "This paper discusses the fourth manuscript the bilingual Eblaite lexical list (\\emph{VE}), known as manuscript D. Initially, the VE was thought to have two manuscripts plus a supplement, but further research revealed that there are at least four manuscripts. Manuscript B contains the complete list, manuscripts A\u2081 and C contain the first 1089 entries, manuscript D provides the first 880 entries, and manuscript A\u2082 contains entries from 1090 onwards. Manuscript D was identified by Francesco Pomponio and is attributed to a single hand. While the final comprehensive edition of the manuscripts of the \\emph{VE} is still pending, the paper offers an overview of the glossed entries contained in manuscript D. The paper also emphasizes its uniqueness, noting that it offers a greater number of glosses and often refers to different roots or themes when providing glosses for entries also found in other sources. Additionally, manuscript D shows similarities with the monolingual Sumerian source TM.75.G.2422. Thanks to an almost complete photographic documentation available for manuscript D, the paper further focuses on examining its syllabary. The values and proposed reconstructions of the syllabograms are justified in detail in the second part of the paper, which lists the individual entries of the \\emph{VE} according to the numbering adopted by Pettinato in MEE 4.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Women}}\u2019s {{Ration System}} in {{Ebla}}",
-    "dc:creator": "Davidovi\u0107, Vesna",
-    "dc:date": "1987",
-    "bibo:journal": "Oriens Antiquus",
-    "bibo:shortjournal": "OrAn",
-    "bibo:volume": "26",
-    "bibo:pages": "299--307",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "In this paper, Davidovi\u0107 offers a preliminary interpretation of food allotment tablets concerning women found in Small Archive L.2712. She offers the edition of ARET IX 100 = TM.75.G.253 =~\\emph{MEE}~1 77 and ARET IX 43 = TM.75.G.523 = \\emph{MEE}~1 191 and discusses the ration system in relation with two groups of women linked to the Palace: high ranking court ladies and female personnel. For a more recent and comprehensive study of food allotment distribution at Ebla, see Milano,~ARET~IX (1990).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "La formation des noms personnels f\u00e9minins \u00e0 Ebla",
-    "dc:creator": "Fronzaroli, Pelio",
-    "dc:date": "1987",
-    "bibo:pages": "63--73",
-    "dc:language": "french",
-    "dc:keywords": "Onomastics at Ebla",
-    "bibo:note": "Fronzaroli identifies here 89 onomastic patterns referred to female PNs included in \\emph{ARET} I-IV and \\emph{MEE} 2. He offers a syntactic interpretation of each one.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "A {{Veterinary Prescription Found}} at {{Ebla}} ({{TM}}.75.{{G}}.1645)",
-    "dc:creator": "Fronzaroli, Pelio",
-    "dc:date": "2005",
-    "bibo:pages": "9--19",
-    "dc:keywords": "Animals at Ebla,{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "MEE 3 69 = TM.75.G.1645 is a short medical text offering instructions for the treatment of a weaned calf. Already published by Pettinato (MEE 3, 69), the document (probably a scribal exercise) is here re-edited by Fronzaroli who offers a new and better understanding of its content. A picture of the document is included (97).",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Testi amministrativi di vario contenuto (Archivio L.2769: TM.75.G.4102-6050)",
-    "dc:creator": "Lahlouh, Mohammed and Catagnoti, Amalia",
-    "dc:date": "2006",
-    "dc:language": "italian",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "This volume continues the publication of fragmentary texts from the Central Archive L.2769. It collects documents corresponding to inventory numbers TM.75.G.4102-6050, excluding lexical lists and texts from other categories currently being prepared for separate editions. The transcriptions were completed by Mohammed Lahlouh (nos. 1-808) and Amalia Catagnoti (nos. 809-1417) after Lahlouh's passing. The volume was edited by Catagnoti, who compiled the indexes, including a Glossary with interpretations, correspondences, and comparisons with other Semitic languages. Most of the texts are administrative, with exceptions including a chancery fragment (ARET XII 620, now part of ARET XVI 1 = TM.75.G.2411+), a joined literary text (ARET XII 1024 = TM.75.G.5511, which joins ARET V 6 = TM.75.G.2421), and a possible lexical fragment (ARET XII 1227 = TM.75.G.5817; on this latter fragment, see Bonechi, 'Miscellaneous Notes' [2021], pp.43-44).",
-    "@type": "bibo:Book"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Of {{Plants}} and {{Trees}}. {{Crops}} and {{Vegetable Resources}} at {{Ebla}}",
-    "dc:creator": "Marchesi, Gianni",
-    "dc:date": "2013",
-    "bibo:pages": "274--292",
-    "bibo:note": "The field of agricultural studies in relation to Ebla is still in its preliminary stage due to the lack of published agricultural texts and incomplete knowledge of the relevant vocabulary. Similarly, the study of husbandry in Ebla is limited to a few pioneering essays. Extensive research is needed to fully understand agriculture, husbandry, and the utilization of Ebla's territory and resources. Previous studies on botanical items in Ebla mainly relied on lexical materials from bilingual vocabularies or focused on specific classes or species of plants. No comprehensive overview of all vegetable \\emph{taxa} mentioned in the Eblaite texts has been attempted yet. Understanding these data is crucial not only for comprehending the Eblaite economy but also for reconstructing the vegetation, landscape, and environment of Ebla and its neighboring areas.\n\\par\nThis article by Marchesi is the first in a series of planned studies aimed at providing preparatory material for a comprehensive investigation. This particular work focuses on cataloging field crops, including GIB\u2083 (\"naked wheat\"), GIB\u2083.GARIG.TUR (\"lineseed\"), GIB\u2083.GUNU\u2083, GIB\u2083.GUNU\u2083.TUR\\textsuperscript{gur} (\"field pea\"\\textsuperscript{?}), GIB\u2083.TUR (\"lentil\"\\textsuperscript{?}), GU\u2082.GIB\u2083 (\"pulse\"), \\emph{i-du} (\"grain\"), KAL (\"einkorn\"), \u0160E (\"barley\"), ZIZ\u2082 (\"emmer\"). The author plans to publish two further studies which will cover fruit and garden crops, as well as trees, wild plants, and unidentified plant names.\n\\par\nThe article also includes the edition of TM.75.G.10142, complete with transliteration, and pictures.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Osservazioni sui gioielli delle tombe principesche di Mardikh IIIB",
-    "dc:creator": "Matthiae, Paolo",
-    "dc:date": "1981",
-    "bibo:journal": "Studi Eblaiti",
-    "bibo:shortjournal": "SEb",
-    "bibo:volume": "4",
-    "bibo:pages": "205--225",
-    "dc:language": "italian",
-    "dc:keywords": "{Death, Funerary Practices, and Burials at Ebla}",
-    "bibo:note": "English translation in Pinnock, Frances, ed. 2013. \\emph{Studies on the Archaeology of Ebla: 1980-2010}. Wiesbaden: Harrassowitz, 127-140.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Una statua (alan\\textsubscript{x}) in forma di 'falco' (\\emph{a-a-ti-mu}) ad Ebla",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2005",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2005/19",
-    "bibo:pages": "20--21",
-    "dc:language": "italian",
-    "bibo:note": "In a document of metal incomes (ARET XIV 86 = TM.75.G.2073) the scribe registers a vessel with an hawk-shaped decoration (alan\\textsubscript{x} \\emph{a-a-ti-mu}). The term is related to \\emph{EV} 049 buru\u2084\\textsuperscript{mu\u0161en} // \\emph{a-a-tum}, a Semitic spelling also occuring in ARET V 5 = TM.75.G.2194.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Eblaita \\textsuperscript{d}\\emph{g\u00fa-\u0161a-ra-tum} = ugaritico \\emph{k\u1e6frt}",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2006",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2006/64",
-    "bibo:pages": "61--63",
-    "dc:language": "italian",
-    "dc:keywords": "Cult and Religion at Ebla",
-    "bibo:note": "In this note Pasquali offers a new interpretation of the divine name \\textsuperscript{dingir}\\emph{gu}\u2082-\\emph{\u0161a-ra-tum}. The same author had previously identified the term as a plural of \\textsuperscript{dingir}\\emph{ga}-\\emph{\u0161a-lu}, from \\emph{ga\u0161\u0101ru}, \u201cto be strong\u201d (see ~Pasquali 2005, 134-135). Pasquali offers here a new interpretation, suggesting that although the term refers to a group of seven female deities, it connects to Ugr. \\emph{k\u1e6frt}, Akk. \\emph{\u0161ass\u016brum}, also attested in Mari pantheon as \\emph{kuwa\u0161\u016bratum}/\\emph{k\u016b\u0161a}[\\emph{r\u0101tum}]. The root is \u221ak\u1e6fr, \"skilful\", which is also the name of the god of technology (DUL3, s.v. \u221ak\u1e6fr (I, III), 467-468). Their seven statues had face, hands and feet covered in silver. Each held a bronze \\emph{gu}\u2082-\\emph{a-tum}. On this tool, see Pasquali, 'g\u00fa-a-tum' (2022).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "D\u2019Ebla \u00e0 Ougarit: les merchands d\u2019Oura et les tissus bariol\u00e9s",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2015",
-    "bibo:pages": "145--152",
-    "dc:language": "french",
-    "dc:keywords": "Textiles at Ebla",
-    "bibo:note": "In this paper Pasquali argues that the term \\emph{u}\\textsubscript{3}-\\emph{ra}\\textsuperscript{(ki)} used to describe two garments attested in the Archives refers to the Cilician city of Ura. The author investigates the occurrences of the garment \\textsuperscript{tug\u2082}gun\\textsubscript{3} \\emph{u}\\textsubscript{3}-\\emph{ra}\\textsuperscript{(ki)}, suggesting it was a precious fabric often delivered with a sheath and dagger to men. The \\textsuperscript{tug\u2082}gun\\textsubscript{3} can also be delivered to a god (e.g.\\emph{ }\u02be\\emph{a}\\textsubscript{3}-\\emph{da-bal}): the author thus discusses the parallel between the divine couple \u1e24adda-ba\u02bfal/\\textsuperscript{d}BAD-mi\\textsubscript{2} and the royal couple in the marriage ritual. The author further explores the occurrences of \\emph{du-ru}\\textsubscript{12}-\\emph{ru}\\textsubscript{12}/\\emph{rum}\\textsubscript{2} (stole, peplos) and its \\emph{u}\\textsubscript{3}-\\emph{ra}\\textsuperscript{(ki)} variant. Regarding the reading of the term \\emph{u}\\textsubscript{3}-\\emph{ra}\\textsuperscript{(ki)}, Pasquali observes that it has been wrongly interpreted as libir-ra, whereas the signs u\\textsubscript{3} and libir are different. On the basis of a few occurrences of the term \\emph{u}\\textsubscript{3}-\\emph{ra}\\textsuperscript{ }with the determinative for place (ki), he then concludes it may refer to a GN. The city of Ura in Cilicia is the most plausible candidate, as it appears in later documents from Ugarit. The term thus belongs to the group of GNs used to describe the provenance of certain garments or fabrics, such as Mari or Armi.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "La comptabilisation des tissus \u00e0 \u00c9bla pendant le r\u00e8gne d\u2019Ibrium (L.2769). \u00c0 propos d\u2019un ouvrage r\u00e9cent",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2020",
-    "bibo:journal": "89",
-    "bibo:shortjournal": "Or",
-    "bibo:volume": "89",
-    "bibo:pages": "399--411",
-    "dc:language": "french",
-    "dc:keywords": "Fashionable Outfits,Textiles at Ebla",
-    "bibo:note": "The review article by Pasquali discusses Imad Samir's edition of 20 monthly accounts of textiles (\\emph{ARET} XIX). Samir's book is a reworking of his doctoral thesis, defended in 2001. The reviewer highlights that the book comprises three main chapters. The first chapter delves into the accounting practices related to textiles and into chronological details, while the second chapter presents the texts in transliteration along with translations and brief commentaries. The third part contains an index that includes personal names, theonyms, toponyms, and a glossary of lexical terms.\n\\par\nThe reviewer expresses disappointment with the book's analysis of the production and management of textiles within the Eblaite economy. They find Samir's observations and data to be superficial and already well-known to specialists, often lacking proper references. They criticize the author for relying solely on the texts present in the volume and disregarding previously published documentation.\n\\par\nMoreover, the reviewer finds it regrettable that Samir does not explore the connection between textile deliveries and cult or delve into the symbolism of male and female dress during ceremonies. They argue that this lack of depth hampers the analysis of two texts, ARET XIX 10 = TM.75.G.1326 and ARET XIX 20 = TM.75.G.1417, which are considered the most interesting in the book by the reviewer. Text 20 seems to describe a ritual journey by the king to various temples, involving cloth and metal object offerings. Text 10 records fabric deliveries made for Princess Ma'ut's wedding. The reviewer notes that Samir misinterprets the delivery recipients in text 10, and refers to their own previous work on the symbolic significance of clothing at Ebla.\n\\par\nThe review contains further observation on several keywords, verbs, or PNs: \\emph{Da-mi-mu}, \\emph{Ga-si-ru}\u2081\u2082, \u2e22GU\\textsuperscript{?}\u2e23.GA.\u1e2aU, \\emph{Ma-da-ra}, \u02be\\emph{a}\u2083-\\emph{da-um}\\textsuperscript{tug\u2082}(-I/-II), \\emph{ba-a-nu}, \\emph{ba-da-u}\u2084, GA\u2082\u00d7LA\u2082, gir\u2082 mar-tu zu\u2082-AN.AMBAR, GI\u0160-ban\u0161ur, GI\u0160.DUG.DU, GI\u0160-\\emph{ir-zu}\u2082, GI\u0160-u\u0161tin \\emph{Ma-ri}\u2082, GI\u0160-ti-\u1e2aAR, \\emph{gu}\u2082-\\emph{ba-ru}\u2081\u2082, \\emph{gu}\u2082-\\emph{la}-\u02be\\emph{a}\u2083-\\emph{tum, gu-si\u2084-si\u2084, \u1e2bul\u2082, il\u2082, libir-ra\u2082, nam-nam-}su\\emph{\u2083, }ne-da-\\emph{-\u02be}a\\emph{\u2083-}tum\\emph{, }si-ti-tum\\emph{, \u0161ir-za, \u0161u-ke\u0161da, }ti-\u0161a-nu\\emph{, u\u2082-su, }zi-bar-ri\\emph{\u2082.}",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Entre deuil et n\u00e9cromancie: Le lexique de la lamentation fun\u00e8bre \u00e0 \u00c9bla et dans l'Antiquite\u00e9 classique \u00e0 la lumi\u00e8re de l'ethnologie et de la religion compar\u00e8e",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2020",
-    "bibo:journal": "Studia Eblaitica",
-    "bibo:shortjournal": "StEbl",
-    "bibo:volume": "6",
-    "bibo:pages": "41--55",
-    "dc:language": "french",
-    "dc:keywords": "{Death, Funerary Practices, and Burials at Ebla}",
-    "bibo:note": "In this paper, Pasquali investigates the expression of grief at Ebla analyzing the traces it left in the city\u2019s administrative record. The author also tries to emphasize its place within a wider Mediterranean cultural continuum. Starting from his previous work on professional weepers (\\emph{mu-na-bi}\u2082-\\emph{tum}; Pasquali and Mangiarotti 1999) the author further investigates three passages mentioning the~\\emph{mu-na-bi}\u2082-\\emph{tum}. A comparison with the Greek tradition follows, further substantiated by data on two other Eblaite professional figures connected to grief: the~\\emph{ra-zi-ma-tum}~and the al\u2086-en\u2083-tar. See also Pasquali and Mangiarotti, 'r\u0101zimtum' (1999); Pasquali, 'Al\u2086-en-tar' (2018); Pasquali, 'dam munabbi\u02betum'~(2019).",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "\u00c9bla\u00efte \\emph{g\u00fa-a-tum}: un bilan provisoire",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2022",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2022/3",
-    "bibo:pages": "6--9",
-    "bibo:url": "https://sepoa.fr/nabu/nabu-2022/",
-    "dc:language": "french",
-    "dc:keywords": "Eblaite: Lexicon",
-    "bibo:note": "The term \\emph{gu}\u2082-\\emph{a-tum} indicates a tool connected to several deities: its meaning remains uncertain. Here Pasquali offers a pr\u00e9cis of the available evidence and reviews several occurrences of this object in connection with Adamma, Nindur, I\u0161\u1e2bara, Barama, Ganana, the \\emph{g\u016b\u0161ar\u0101tum}, and Hadda. Lexical evidence is inconclusive, and the identification with an instrument to cut the umbilical cord suggested by Bonechi is refuted by the author",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Sur le \u00ab cristal de roche \u00bb dans les textes d\u2019\u00c9bla. \u00c0 propos d\u2019un article r\u00e9cent",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2022",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2022/82",
-    "bibo:pages": "179--181",
-    "bibo:url": "https://sepoa.fr/nabu/nabu-2022/",
-    "dc:language": "french",
-    "dc:keywords": "Craftsmanship: (Precious) Artifacts at Ebla,Eblaite: Lexicon,Materials at Ebla",
-    "bibo:note": "In this brief note, Pasquali offers a reply to Biga and Steinkeller, 'Dugurasu' (2021) with reference to the meaning of the term \\emph{nab-\u1e2bu} (also written \\emph{\\textsuperscript{na}nab}\\textsubscript{x}(MUL)-\\emph{\u1e2bu} and \\emph{na-ba-\u1e2bu}, \u201crock crystal\u201d (or the like). In their paper, Biga and Steinkeller suggest the identification of the GN Dugurasu with Egypt: in doing so, they reject Pasquali\u2019s earlier interpretation of \\emph{nab-\u1e2bu} as \u201crock crystal\u201d. Pasquali brings further evidence in favor of his interpretation.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "L\u2019image de culte de la d\u00e9esse \\textsuperscript{d}TU dans le temple du dieu \\textsuperscript{d}KU-\\emph{ra} \u00e0 \u00c9bla",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2023",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2023/5",
-    "bibo:pages": "11--12",
-    "bibo:url": "https://sepoa.fr/nabu-2023/",
-    "dc:language": "french",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "In this short note Pasquali discusses the cult image of the goddess \\textsuperscript{d}TU in the temple of the god \\textsuperscript{d}KU-\\emph{ra}. In the administrative record, the mother goddess \\textsuperscript{d}TU is often associated with the offering of a black or white gu-dul\u2083\\textsuperscript{tug\u2082} cloth for her cult image. The connection between \\textsuperscript{d}TU and the god \\textsuperscript{d}KU-\\emph{ra} is further emphasized, as the dressing ceremony of \\textsuperscript{d}TU's divine simulacrum involves offering a cloth for the pa\u2084:\u0161e\u0161 priests of \\textsuperscript{d}KU-\\emph{ra}.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "\u00c9 Dingir-Dingir(-Dingir), \u00ab {{Sanctum}} Des Anc\u00eatres Divinis\u00e9s \u00bb, Dans Les Textes d\u2019{{\u00c9bla}}",
-    "dc:creator": "Pasquali, Jacopo",
-    "dc:date": "2023",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2023/38",
-    "bibo:pages": "82--85",
-    "bibo:url": "https://sepoa.fr/wp/wp-content/uploads/2023/08/NABU-2023-2.pdf",
-    "bibo:note": "In this study, Pasquali examines passages in the Ebla documents pertaining to a structure known as e\u2082-dingir-dingir(-dingir). The author begins by evaluating the current interpretation of this term as referring to a temple dedicated to the Ebla pantheon. However, despite being dedicated to various deities, there is no mention of a cult image associated with this temple in the sources. Regarding the \\emph{mi-sa-ga-ti-im} rite, the author highlights that the god Hadda plays no role in the transmission of royalty; this duty is assigned to KUra, Barama (his spouse), and the deified ancestors. Drawing parallels with Emar and Ugarit, the author suggests that the worship of deities in the \"temple of the gods\" could be linked to the deified ancestors of the ruling family.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "I vocabolari bilingui di Ebla: problemi di traduzione e di lessicografia sumerico-eblaita",
-    "dc:creator": "Pettinato, Giovanni",
-    "dc:date": "1981",
-    "bibo:pages": "241--276",
-    "dc:language": "italian",
-    "dc:keywords": "EVoCARE Bibliography,Lexical compositions at Ebla",
-    "bibo:note": "The document here published also appeared in \\emph{MEE }4 as text no. 12.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Testi lessicali bilingui della Biblioteca L.2769. Parte I: Traslitterazione dei testi e ricostruzione del VE",
-    "dc:creator": "Pettinato, Giovanni",
-    "dc:date": "1982",
-    "dc:language": "italian",
-    "dc:keywords": "Lexical compositions at Ebla",
-    "bibo:note": "In this volume Giovanni Pettinato offers the first edition of the most important bilingual lexical documents found at Ebla. In the introduction the author describe the main sources: the volume contains 114 bilingual texts (mostly fragmentary), of which 60 documents plus 12 fragments are classified as sources of the bilingual vocabulary. Furthermore, 39 documents plus 3 fragments belong to the group of the so-called \u2018estratti del vocabolario\u2019 (\\emph{EV}). \\emph{MEE} 4 also includes the edition of the main manuscript (source) of the unilingual e\u0161-bar-kin\u2085 acrographic series, which constitutes the backbone of the bilingual vocabulary. The last document (\\emph{MEE} 4, 116) has been recognized as a Bilingual List of Animals. Volume II has not been published. The identification of the sources (\\emph{i.e.}, manuscripts) of the \\emph{VE} has since been substantially revised.",
-    "@type": "bibo:Book"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "L'architettura funeraria",
-    "dc:creator": "Polcaro, Andrea",
-    "dc:date": "2021",
-    "bibo:pages": "297--326",
-    "dc:language": "italian",
-    "dc:keywords": "{Death, Funerary Practices, and Burials at Ebla}",
-    "bibo:note": "In this chapter the author offers an overview of burial practices in Syria from the Chalcolithic to the Iron Age. Paragraphs 2 (Early Bronze Age), 3 (Middle Bronze Age) and 4 (Late Bronze Age) include an outline of funerary practices at Ebla as well as in important Syrian archaeological sites (Tell Banat, Jerablus Tahtani, Tell Ahmar, Umm el-Marra) contextualizing Tell Mardikh within the wider Syrian cultural landscape. Includes figures and further bibliography. Further materials are available on the publisher\u2019s website.",
-    "@type": "bibo:Incollection"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Kura, {{Youthful Ruler}} and {{Martial City-God}} of {{Ebla}}",
-    "dc:creator": "Sallaberger, Walther",
-    "dc:date": "2018",
-    "bibo:pages": "107--139",
-    "dc:keywords": "Cult and Religion at Ebla",
-    "bibo:note": "This paper by Sallaberger explores the role of the god KUra at Ebla during the Early Bronze Age. The author highlights that in polytheistic systems, the functions and realms of a deity are defined and limited by their relationships with other gods. The author notes that the traditions of Eblaite divine names and their roles can be traced to the Mittani kingdom, the Hittite kingdom, and Ugarit. However, the character of KUra, Ebla's city-god, is more difficult to comprehend due to the lack of monumental or narrative texts specifically describing the gods of the local pantheon in Ebla's cuneiform corpus, which primarily consists of administrative documents.\n\\par\nDespite this limitation, the author argues that considering the wider Syro-Mesopotamian horizon is essential to understanding Ebla in the Early Bronze Age. The author initially addresses the interpretation of the divine name written as DN \\textsuperscript{dingir}KU-\\emph{ra}, acknowledging the absence of conclusive evidence regarding whether the name should be understood as Semitic or not. The difficulty of identifying the phonetic representation of the divine name \"Kura\" in later traditions is highlighted, cautioning against a simplistic search for direct correlations. Kura held the position of the tutelary deity of Ebla during the period of the Royal Palace G and its archives. Although no monumental texts specifically describing the local pantheon from this period are available, textual evidence confirms the role of Kura as the city-god of Ebla. Three significant aspects are highlighted: firstly, KUra and Barama symbolize the king and queen of Ebla within the context of the royal ritual. Secondly, KUra receives the most significant dedications and sacrifices compared to other gods worshipped in Ebla. Lastly, oaths of loyalty and allegiance were sworn to KUra, underscoring the deity's central position within the city's religious and social framework.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Wirtschaftstexte: Monatliche Buchf\u00fchrung \u00fcber Textilien aus Ibriums Amtszeit (Archiv L. 2769).",
-    "dc:creator": "Samir, Imad",
-    "dc:date": "2019",
-    "dc:language": "ngerman",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Fashionable Outfits",
-    "bibo:note": "This volume represents an expanded and revised version of Imad Samir's doctoral thesis, originally published by Saarland University in 2001. Titled \"Buchf\u00fchrung \u00fcber Textilien: Kommentierte Erstbearbeitung einer Gruppe von Wirtschaftstexten aus dem Ebla-Archiv L.2769,\" the book focuses on twenty monthly accounts of textiles dated to the time of minister Ibrium. While most of these texts are published for the first time, some fragments had been previously featured in publications such as MEE 2, ARET III, and XII. The introduction provides an overview of different types of fabrics, clothing, recipients, and relevant administrative terminology. Additionally, an attempt is made to establish a relative dating of these texts through a prosopographical study of the names of family members of the ruler of Ebla and others, as well as through the analysis of certain graphic features.\n\\par\nFor a review of the book, see Pasquali, 'Comptabilisation des tissus' (2020).",
-    "@type": "bibo:Book"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "International {{Trade}} in {{Greater Mesopotamia During Late Pre-Sargonic Times}}: {{The Case}} of {{Ebla}} as {{Illustrated}} by {{Her Participation}} in the {{Euphratean Timber Trade}}",
-    "dc:creator": "Steinkeller, Piotr",
-    "dc:date": "2021",
-    "bibo:pages": "173--197",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Trade at Ebla",
-    "bibo:note": "Here Steinkeller offers a new interpretation of 75.2268 = \\emph{ARET} XIII 15",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "More on the \u201c{{Forest Wardens}}\u201d of {{Ebla Sources}}",
-    "dc:creator": "Steinkeller, Piotr",
-    "dc:date": "2023",
-    "bibo:journal": "Nouvelles Assyriologiques Br\u00e8ves et Utilitaires",
-    "bibo:shortjournal": "NABU",
-    "bibo:volume": "2023/6",
-    "bibo:pages": "13--14",
-    "bibo:url": "https://sepoa.fr/nabu-2023/",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions}",
-    "bibo:note": "In this note Steinkeller collects new evidence concerning the officials supervising forests and timber harvesting in the Ebla Archives.",
-    "@type": "bibo:Article"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "De l\u2019ama-gal en d\u2019Ebla \u00e0 la Valide Sultan ottomane. L\u2019importance de la \u2018m\u00e8re du roi\u2019 dans le Proche-Orient depuis la plus haute antiquit\u00e9",
-    "dc:creator": "Tonietti, Maria Vittoria",
-    "dc:date": "2009",
-    "bibo:pages": "261--274",
-    "dc:language": "french",
-    "dc:keywords": "Women at Ebla",
-    "bibo:note": "The paper by Tonietti explores the significant influence of women in Syro-Mesopotamian culture, specifically focusing on their political power and the role of queen mothers in the kingdom of Ebla. While women were generally denied direct access to political authority, they were able to exert strong influence through their husbands or sons. The paper highlights the historical importance of Dusigu, the mother of the king of Ebla in the mid-24th century B.C., as the first woman in ancient Near Eastern history to initiate a tradition that continued through the centuries to the Ottoman Empire.\n\\par\nTonietti acknowledges the extensive information available on the king's mother, known as the ama-gal-en, in the works published to date on the women of the Ebla palace. Recently published texts have provided new insights into the ArruLUM period, which was previously poorly documented, and have proposed a new chronological framework for the succession of the last three sovereigns and their respective ministers. With this updated information, the paper delves deeper into the role of the ama-gal-en, exploring various aspects closely linked to significant moments in the history of the kingdom of Ebla.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "Sacrifices, Divination and Ritual Consumption of Meat. The uzu Deliveries to the King of Ebla and the \u0161u-mu-n\u00edgin of God NIdabal of Luban",
-    "dc:creator": "Tonietti, Maria Vittoria",
-    "dc:date": "2016",
-    "bibo:pages": "65--98",
-    "dc:language": "italian",
-    "dc:keywords": "Cult and Religion at Ebla,Fashionable Outfits",
-    "bibo:note": "In this paper, Tonietti focuses on the ritual consumption of meat. Although meat (uzu) rarely appears in the administrative record, sheep offerings (udu nidba\u2082) are widely attested especially in cultic contexts. After an overview of the documented records of meat deliveries, Tonietti investigates those concerning NIdabal's festival offering a new interpretation of the expression '\u0161u mu-tak\u2084~uzu~\\emph{a\u0161}\u2082-\\emph{du}~NIdabal'. According to her reconstruction, the members of the elite~\\emph{received the meat which was by} (\\emph{a\u0161}\u2082-\\emph{du}) \\emph{NIdabal},~\\emph{i.e.}, of the sheep sacrificed in Luban for the god's \u0161u-mu-nigin\u2082.",
-    "@type": "bibo:Inproceedings"
-  },
-  {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "The {{Ebla Region}} from the {{Early}} to the {{Middle Bronze Age}}: {{Reading Socio-cultural Changes}} in {{Settlement Patterns}} and {{Material Culture}}",
-    "dc:creator": "Vacca, Agnese and D'Andrea, Marta",
-    "dc:date": "2023",
-    "bibo:pages": "879--893",
-    "bibo:note": "The paper discusses the historical and archaeological developments of the Ebla region in north-west inland Syria during the transition from the Early Bronze Age (EB) to the Middle Bronze Age (MB). It explores the formation, growth, crises, and reorganization of urbanization, along with the shift from a non-Amorite to an Amorite political landscape. The research is based on excavation and survey data from sites such as Ebla (Tell Mardikh), Tell Afis, Tell Tuqan, and Tell Mastuma.\n\\par\nThe study takes into consideration the surveys carried out in the region around Ebla during the 1960s and 1970s, as well as recent surveys conducted by the Ebla Chora project. These surveys identified and classified numerous sites, shedding light on the occupation patterns during different periods in various ecological zones. Notably, the surveys around Ebla, the Matkh depression, and the steppe areas provide insights into settlement distribution across the landscape.\n\\par\nThe study emphasizes the need to integrate excavation and survey data to comprehensively analyze the developments in the Ebla region throughout these periods. This integrated approach aims to shed light on the historical trajectory, settlement patterns, and broader socio-political shifts, contributing to a better understanding of this region's archaeological landscape.",
-    "@type": "bibo:Inproceedings"
-  }
-]
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Article",
+        "@id": "3019",
+        "dc:title": "É dingir-dingir(-dingir), « Sanctum des ancêtres divinisés », dans les textes d’Ébla",
+        "dc:creator": ["Jacopo Pasquali"],
+        "dc:date": "2023",
+        "bibo:journal": "Nouvelles Assyriologiques Brèves et Utilitaires",
+        "bibo:volume": "2023/38",
+        "bibo:pages": "82-85",
+        "bibo:url": "https://sepoa.fr/wp/wp-content/uploads/2023/08/NABU-2023-2.pdf",
+        "bibo:note": "In this study, Pasquali examines passages in the Ebla documents pertaining to a structure known as e₂-dingir-dingir(-dingir). The author begins by evaluating the current interpretation of this term as referring to a temple dedicated to the Ebla pantheon. However, despite being dedicated to various deities, there is no mention of a cult image associated with this temple in the sources. Regarding the <i>mi-sa-ga-ti-im</i> rite, the author highlights that the god Hadda plays no role in the transmission of royalty; this duty is assigned to KUra, Barama (his spouse), and the deified ancestors. Drawing parallels with Emar and Ugarit, the author suggests that the worship of deities in the 'temple of the gods' could be linked to the deified ancestors of the ruling family."
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Book",
+        "@id": "2033",
+        "dc:title": "Testi lessicali bilingui della Biblioteca L.2769. Parte I: Traslitterazione dei testi e ricostruzione del VE",
+        "dc:creator": ["Giovanni Pettinato"],
+        "dc:date": "1982",
+        "bibo:language": "it-IT",
+        "bibo:publisher": "Istituto Universitario Orientale di Napoli",
+        "bibo:note": "In this volume Giovanni Pettinato offers the first edition of the most important bilingual lexical documents found at Ebla. In the introduction the author describe the main sources: the volume contains 114 bilingual texts (mostly fragmentary), of which 60 documents plus 12 fragments are classified as sources of the bilingual vocabulary. Furthermore, 39 documents plus 3 fragments belong to the group of the so-called ‘estratti del vocabolario’ (<i>EV</i>). <i>MEE</i> 4 also includes the edition of the main manuscript (source) of the unilingual eš-bar-kin₅ acrographic series, which constitutes the backbone of the bilingual vocabulary. The last document (<i>MEE</i> 4, 116) has been recognized as a Bilingual List of Animals. Volume II has not been published. The identification of the sources (<i>i.e.</i>, manuscripts) of the <i>VE</i> has since been substantially revised.",
+        "dc:contributor":"Erica Scarpa"
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Article",
+        "@id": "1959",
+        "dc:title": "Eblaita <sup>d</sup><i>gú-ša-ra-tum</i> = ugaritico <i>kṯrt</i>",
+        "dc:creator": ["Jacopo Pasquali"],
+        "dc:date": "2006",
+        "bibo:journal": "Nouvelles Assyriologiques Brèves et Utilitaires",  
+        "bibo:volume": "2006/64",
+        "bibo:pages": "61-63",
+        "bibo:language": "it-IT",
+        "bibo:url": "https://sepoa.fr/wp/wp-content/uploads/2023/04/NABU-2006-3.pdf",
+        "bibo:note": "In this note Pasquali offers a new interpretation of the divine name <sup>dingir</sup><i>gu</i>₂-<i>ša-ra-tum</i>. The same author had previously identified the term as a plural of <sup>dingir</sup><i>ga-ša-lu</i>, from <i>gašāru</i>, “to be strong” (see Pasquali 2005, 134-135). Pasquali offers here a new interpretation, suggesting that although the term refers to a group of seven female deities, it connects to Ugr. <i>kṯrt</i>, Akk. <i>šassūrum</i>, also attested in Mari pantheon as <i>kuwašūratum</i> / <i>kūša</i>[<i>rātum</i>]. The root is √kṯr, 'skilful', which is also the name of the god of technology (DUL<sup>3</sup>, s.v. √kṯr (I, III), 467-468). Their seven statues had face, hands and feet covered in silver. Each held a bronze <i>gu</i>₂-<i>a-tum</i>. On this tool, see Pasquali, 'gú-a-tum' (2022).",
+        "dc:contributor":"Erica Scarpa"
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Conference",
+        "@id": "2554",
+        "dc:title": "Sacrifices, Divination and Ritual Consumption of Meat. The uzu Deliveries to the King of Ebla and the šu-mu-nígin of God NIdabal of Luban",
+        "dc:creator": ["Maria Vittoria Tonietti"],
+        "dc:date": "2016",
+        "bibo:editor": ["Paola Corò", "Elena Devecchi", "Nicla De Zorzi", "Massimo Maiocchi"],
+        "bibo:booktitle": "Libiamo ne’ lieti calici. Ancient Near Eastern Studies Presented to Lucio Milano on the Occasion of his 65th Birthday by Pupils, Colleagues and Friends",
+        "bibo:language": "it-IT",
+        "bibo:pages": "65-98",
+        "bibo:publisher": "Ugarit-Verlag",
+        "bibo:series": "AOAT",
+        "bibo:seriesnumber": "436",
+        "bibo:note": "In this paper, Tonietti focuses on the ritual consumption of meat. Although meat (uzu) rarely appears in the administrative record, sheep offerings (udu nidba₂) are widely attested especially in cultic contexts. After an overview of the documented records of meat deliveries, Tonietti investigates those concerning NIdabal's festival offering a new interpretation of the expression 'šu mu-tak₄ uzu <i>aš</i>₂-<i>aš</i> NIdabal'. According to her reconstruction, the members of the elite <i>received the meat which was by</i> (<i>aš</i>₂-<i>da</i>) NIdabal, <i>i.e.</i>, of the sheep sacrificed in Luban for the god's šu-mu-nigin₂."
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Document",
+        "@id":"3021",
+        "dc:title": "The Ebla Region from the Early to the Middle Bronze Age: Reading Socio-cultural Changes in Settlement Patterns and Material Culture",
+        "dc:creator": ["Agnese Vacca","Marta D'Andrea"],
+        "dc:date": "2023",
+        "bibo:editor": ["Niccolò Marchetti","Michael Campeggi","Francesca Cavaliere","Claudia D'Orazio","Gabriele Giacosa","Eleonora Mariani"],  
+        "bibo:booktitle": "Proceedings of the 12th international congress on the archaeology of the Ancient Near East: 06-09 April 2021, Bologna, Volume 1: Environmental Archaeology. Hammering the Material World. Cognitive Archaeology. Modeling the Past. Networked Archaeology. Endangered Cultural Heritage",
+        "bibo:pages": "879-893",
+        "bibo:language":"en-EN",
+        "bibo:publisher": "Harassowitz",
+        "bibo:isbn": "978-3-447-11873-6",
+        "bibo:series":"Proceedings of the International Congress on the Archaeology of the Ancient Near East",
+        "bibo:seriesnumber":"12/1",
+        "dc:contributor": "Erica Scarpa"
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Document",
+        "dc:title": "Title of the Conference Paper 3",
+        "dc:creator": ["Author, John", "Doe, Margare"],
+        "dc:date": "2021",
+        "bibo:editor": "Editor, Jane",  
+        "bibo:booktitle": "Proceedings of the International Conference on ABC",
+        "bibo:pages": "123-135",
+        "bibo:publisher": "IEEE",
+        "bibo:doi": "example_doi123",
+        "dc:abstract": "This is the abstract of the conference paper."
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Document",
+        "dc:title": "Title of the Conference Paper 3",
+        "dc:creator": ["Author, John", "Doe, Margare"],
+        "dc:date": "2021",
+        "bibo:editor": "Editor, Jane",  
+        "bibo:booktitle": "Proceedings of the International Conference on ABC",
+        "bibo:pages": "123-135",
+        "bibo:publisher": "IEEE",
+        "bibo:doi": "example_doi123",
+        "dc:abstract": "This is the abstract of the conference paper."
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Document",
+        "dc:title": "Title of the Conference Paper 3",
+        "dc:creator": ["Author, John", "Doe, Margare"],
+        "dc:date": "2021",
+        "bibo:editor": "Editor, Jane",  
+        "bibo:booktitle": "Proceedings of the International Conference on ABC",
+        "bibo:pages": "123-135",
+        "bibo:publisher": "IEEE",
+        "bibo:doi": "example_doi123",
+        "dc:abstract": "This is the abstract of the conference paper."
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Document",
+        "dc:title": "Title of the Conference Paper 3",
+        "dc:creator": ["Author, John", "Doe, Margare"],
+        "dc:date": "2021",
+        "bibo:editor": "Editor, Jane",  
+        "bibo:booktitle": "Proceedings of the International Conference on ABC",
+        "bibo:pages": "123-135",
+        "bibo:publisher": "IEEE",
+        "bibo:doi": "example_doi123",
+        "dc:abstract": "This is the abstract of the conference paper."
+      },
+      {
+        "@context": {
+          "bibo": "http://purl.org/ontology/bibo/",
+          "dc": "http://purl.org/dc/terms/"
+        },
+        "@type": "bibo:Book",
+        "dc:title": "A Book",
+        "dc:creator": ["Author, John", "Doe, Margare"],
+        "dc:date": "1990",
+        "bibo:editor": "Editor, Jane",  
+        "bibo:publisher": "IEEE",
+        "bibo:publisher": "IEEE",
+        "dc:abstract": "This is the abstract of the conference paper."
+      }
+    ]
