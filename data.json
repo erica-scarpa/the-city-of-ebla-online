@@ -5,7 +5,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Conference",
-        "@id": "0577",
+        "@id": "EB0577",
         "dc:title": "Just at that Time. <sup>14</sup>C Determinations and Analysis from EB 4A Layer",
         "dc:creator": ["Lucio Calcagnile", "Gianluca Quarta", "Marta D'Elia"],
         "dc:date": "2013",
@@ -25,7 +25,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Conference",
-        "@id": "2788",
+        "@id": "EB2788",
         "dc:title": "The Role of Women in Work and Society in the Ebla Kingdom (Syria, 24th century BC)",
         "dc:creator": ["Maria Giovanna Biga"],
         "dc:date": "2016",
@@ -45,7 +45,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Article",
-        "@id": "3019",
+        "@id": "EB3019",
         "dc:title": "É dingir-dingir(-dingir), « Sanctum des ancêtres divinisés », dans les textes d’Ébla",
         "dc:creator": ["Jacopo Pasquali"],
         "dc:date": "2023",
@@ -61,7 +61,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Book",
-        "@id": "2033",
+        "@id": "EB2033",
         "dc:title": "Testi lessicali bilingui della Biblioteca L.2769. Parte I: Traslitterazione dei testi e ricostruzione del VE",
         "dc:creator": ["Giovanni Pettinato"],
         "dc:date": "1982",
@@ -76,7 +76,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Article",
-        "@id": "1959",
+        "@id": "EB1959",
         "dc:title": "Eblaita <sup>d</sup><i>gú-ša-ra-tum</i> = ugaritico <i>kṯrt</i>",
         "dc:creator": ["Jacopo Pasquali"],
         "dc:date": "2006",
@@ -94,7 +94,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Conference",
-        "@id": "2554",
+        "@id": "EB2554",
         "dc:title": "Sacrifices, Divination and Ritual Consumption of Meat. The uzu Deliveries to the King of Ebla and the šu-mu-nígin of God NIdabal of Luban",
         "dc:creator": ["Maria Vittoria Tonietti"],
         "dc:date": "2016",
@@ -113,7 +113,7 @@
           "dc": "http://purl.org/dc/terms/"
         },
         "@type": "bibo:Document",
-        "@id":"3021",
+        "@id":"EB3021",
         "dc:title": "The Ebla Region from the Early to the Middle Bronze Age: Reading Socio-cultural Changes in Settlement Patterns and Material Culture",
         "dc:creator": ["Agnese Vacca","Marta D'Andrea"],
         "dc:date": "2023",
