@@ -37,7 +37,7 @@
         "bibo:series": "Studies in ancient Near Eastern Records",
         "bibo:seriesnumber": "13",
         "bibo:doi": "10.1515/9781614519089-007",
-        "bibo:ISBN": "978-1-61451-913-3"
+        "bibo:isbn": "978-1-61451-913-3"
       },
       {
         "@context": {
