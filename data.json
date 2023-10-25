@@ -1,21 +1,5 @@
 [
-      {
-    "@context": {
-      "bibo": "http://purl.org/ontology/bibo/",
-      "dc": "http://purl.org/dc/terms/"
-    },
-    "dc:title": "La \u2018Lista di nomi e professioni\u2019 ad Ebla",
-    "dc:creator": "Archi, Alfonso",
-    "dc:date": "1981",
-    "bibo:journal": "Studi Eblaiti",
-    "bibo:volume": "4",
-    "bibo:pages": "177--204",
-    "dc:language": "italian",
-    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Lexical compositions at Ebla",
-    "bibo:note": "In this paper Archi offers the edition of the Eblaite version of the ED Names and Professions list (75.2659 +75.2661+75.2662+75.2663+75.3439+75.10007). The author suggests that the copy found at Ebla is not local, but imported (most likely from/through Mari). He briefly comments on the colophon, which bears in fact the name of scribe \\emph{Ir}\\textsubscript{3}-\\emph{za-il} and a praise to god Zababa \u201cking of Ki\u0161\u201d. He further proceeds on a comparison between the Abu Salabikh and Eblaite versions, observing several differences in content and palaeography (178-179; see also tables I-II). As a result of this analysis, the author concludes that the Ebla copy does not come directly from Abu Salabikh. He further comments on the content of the list, suggesting that it does not represent an actual personnel roster, but rather a scribal exercise. On pages 181-189 the full edition of the Ebla tablet is presented, followed by correspondences with the Abu Salabikh versions and indexes. Contains four pictures of the Ebla version. See also Archi, \\emph{RA} 78 (1984) with three more fragments containing the incipit of the composition.",
-    "@type": "bibo:Article",
-    "@id": "0577"
-  },
+
   {
         "@context": {
           "bibo": "http://purl.org/ontology/bibo/",
@@ -201,5 +185,22 @@
         "bibo:publisher": "IEEE",
         "bibo:publisher": "IEEE",
         "dc:abstract": "This is the abstract of the conference paper."
-      }
+      },
+      {
+    "@context": {
+      "bibo": "http://purl.org/ontology/bibo/",
+      "dc": "http://purl.org/dc/terms/"
+    },
+    "dc:title": "La \u2018Lista di nomi e professioni\u2019 ad Ebla",
+    "dc:creator": "Archi, Alfonso",
+    "dc:date": "1981",
+    "bibo:journal": "Studi Eblaiti",
+    "bibo:volume": "4",
+    "bibo:pages": "177--204",
+    "dc:language": "italian",
+    "dc:keywords": "{Ebla Tablets: Joins, Editions, and Discussions},Lexical compositions at Ebla",
+    "bibo:note": "In this paper Archi offers the edition of the Eblaite version of the ED Names and Professions list (75.2659 +75.2661+75.2662+75.2663+75.3439+75.10007). The author suggests that the copy found at Ebla is not local, but imported (most likely from/through Mari). He briefly comments on the colophon, which bears in fact the name of scribe \\emph{Ir}\\textsubscript{3}-\\emph{za-il} and a praise to god Zababa \u201cking of Ki\u0161\u201d. He further proceeds on a comparison between the Abu Salabikh and Eblaite versions, observing several differences in content and palaeography (178-179; see also tables I-II). As a result of this analysis, the author concludes that the Ebla copy does not come directly from Abu Salabikh. He further comments on the content of the list, suggesting that it does not represent an actual personnel roster, but rather a scribal exercise. On pages 181-189 the full edition of the Ebla tablet is presented, followed by correspondences with the Abu Salabikh versions and indexes. Contains four pictures of the Ebla version. See also Archi, \\emph{RA} 78 (1984) with three more fragments containing the incipit of the composition.",
+    "@type": "bibo:Article",
+    "@id": "0577"
+  }
     ]
